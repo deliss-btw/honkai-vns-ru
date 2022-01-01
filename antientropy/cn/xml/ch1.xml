@@ -3,7 +3,7 @@
     <story title="1">
         <scene id="0" background="black" bgm="no">
             <bgm src="horror.mp3" status="start"></bgm>
-            <text>汽车终于停了下来。</text>
+            <text>писюн。</text>
             <sound src="car door open.mp3"/>
             <text>车门似乎打开了。</text>
             <text>外面的冷气裹挟着刺鼻的烟味。</text>
