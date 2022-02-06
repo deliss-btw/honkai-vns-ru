@@ -3,15 +3,15 @@
     <story>
         <scene id="0" background="dashboard.jpg">
             <bgm src="morning.mp3" status="start"></bgm>
-            <text>5 in the morning.</text>
-            <text>Inside a device wider than the driver seat of a truck, a young girl strapped with a belt turns on a machine.</text>
-            <text>Above the power button there is a mottled lamp. The abstract meter is surrounded by hard to read Cyrillic letters.</text>
+            <text>5 часов утра.</text>
+            <text>Внутри устройства, более широкого, чем сиденье водителя грузовика, молодая девушка, пристегнутая ремнем, включает машину.</text>
+            <text>Над кнопкой включения находится пятнистая лампа. Спидометр окружен трудночитаемыми русскими буквами.</text>
             <bgm src="peerGynt.mp3" status="start"></bgm>
             <text>И...Н...Т...Е...Р...К...О...С...М...О...С...</text>
             <text>ИНТЕРКОСМОС (INTERKOSMOS)</text>
-            <!-- RENAME: Approximately half a century ago, the organization 「Destiny」 helped humanity send several astronauts of many different nationalities to the Moon. -->
-            <text>Approximately half a century ago, the organization 「Schicksal」 helped humanity send several astronauts of many different nationalities to the Moon.</text>
-            <text>This machine is a relic of that glorious era.</text>
+            <!-- RENAME: Примерно полвека назад организация 「Судьба」 помогла человечеству отправить на Луну нескольких астронавтов самых разных национальностей. -->
+            <text>Примерно полвека назад организация 「Шиксал」 помогла человечеству отправить на Луну нескольких астронавтов самых разных национальностей.</text>
+            <text>Эта машина - реликвия той славной эпохи.</text>
             <speak chara="_mechanicalSound">Warm-up is over.</speak>
             <speak chara="_mechanicalSound">Current simulation magnification, 0.2.</speak>
             <speak chara="_mechanicalSound">Starting operation.</speak>
@@ -77,7 +77,7 @@
             <text>The following is written on the first page of this confidential document——</text>
             <text>Top Secret Mission："LONELY PANTHALASSA" </text>
             <text>Start Time: February 29th 2012</text>
-            <text>Location: ██████████ - The Quantum Sea  </text>
+            <text>Location: ██████████ - The Sea of Quanta  </text>
             <text>Target: ██████████</text>
             <!-- RENAME: Members: Bianka "Durandal" Atagina (12), Rita Rossweisse (16) -->
             <text>Members: Bianka "Durandal" Ataegina (12), Rita Rossweisse (16)</text>
@@ -90,7 +90,7 @@
             <text>And now...</text>
             <text>The story will go back in time 1461 days from February 29th 2016——</text>
             <!-- RENAME: To the moment when Bianka Atagina and Rita Rossweisse arrived at the 「Quantum Sea」. -->
-            <text>To the moment when Bianka Ataegina and Rita Rossweisse arrived at the 「Quantum Sea」.</text>
+            <text>To the moment when Bianka Ataegina and Rita Rossweisse arrived at the 「Sea of Quanta」.</text>
             <goto goto="40" change="#ffffff"/>
         </scene>
         <scene id="40" background="fishingVillage.jpg">
