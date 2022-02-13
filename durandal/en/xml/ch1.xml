@@ -28,7 +28,7 @@
             <speak chara="_Durandal">Средняя частота биения сердца составляет 125... Окей, идеально.</speak>
             <show chara="biankaSportSmileClose" position="right" opacity="0.8"/>
             <show chara="ritaMaidSmileClose" position="left"/>
-            <speak chara="_Rita">В таком случае, 「Бьянка」-сама, не позавтракать ли нам?</speak>
+            <speak chara="_Rita">В таком случае, Бьянка-сама, не позавтракать ли нам?</speak>
             <show chara="ritaMaidSquintClose" position="left"/>
             <speak chara="_Rita" remark="next">Сегодняшний десерт - свежеиспеченный сыр Милль-фейль.</speak>
             <remark post="U2FsdGVkX18du3l7nMcHK1ORJgIy">
@@ -41,7 +41,7 @@
             <show chara="biankaSportSurprisedClose" position="right"/>
             <speak chara="_Durandal">Хм? Рита? Что с тобой сегодня, почему столько каллорий——</speak>
             <speak chara="_Durandal">——Подожди.</speak>
-            <speak chara="_Durandal">Ты назвала меня... 「Бьянкой」?</speak>
+            <speak chara="_Durandal">Ты назвала меня... Бьянкой?</speak>
             <show chara="biankaSportSurprisedClose" position="right" opacity="0.8"/>
             <show chara="ritaMaidNaughtyClose" position="left"/>
             <speak chara="_Rita">Хехехе. Именно.</speak>
@@ -99,7 +99,7 @@
             <show chara="biankaSneerClose" position="left"/>
             <speak chara="_BiankaNoName">Можешь ли ты поверить в то, что они предпочли бы жить в голоде, чем помочь нам уплыть в море!?</speak>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_BiankaNoName">Это насколько бесхребетным можно быть!?</speak>
+            <speak chara="_BiankaNoName">Это насколько бесхребетным нужно быть!?</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="rita17HesitateClose" position="right"/>
             <speak chara="_RitaNoName">Well, before they drifted here they didn't have any sailing experience...</speak>
