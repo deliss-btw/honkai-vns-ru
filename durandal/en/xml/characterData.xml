@@ -4,7 +4,7 @@
         <character name="画外音" color="#8F8F8F" id="0" src=""/>
         <character name="睁眼" color="#ffffff" id="eyeOpening" src="x_eyeOpening.png"/>
         <character name="冰霜特效" color="#ffffff" id="iceFrozen" src="x_iceFrozen.png"/>
-        <character name="Mechanical Sound" color="#dddddd" id="_mechanicalSound" src=""/>
+        <character name="Звук механизмов" color="#dddddd" id="_mechanicalSound" src=""/>
         <character name="Narrator" color="#dddddd" id="_NarrationVenice" src=""/>
         <character name="Curtain" color="#dddddd" id="0curtain" src="0curtain.png"/>
         <character name="Other Maid" color="#dddddd" id="_NPCMaidNoName" src=""/>
