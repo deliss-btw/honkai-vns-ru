@@ -4,33 +4,33 @@
         <scene id="0" background="dashboard.jpg">
             <bgm src="morning.mp3" status="start"></bgm>
             <text>5 часов утра.</text>
-            <text>Внутри устройства, более широкого, чем сиденье водителя грузовика, молодая девушка, пристегнутая ремнем, включает машину.</text>
+            <text>В устройстве, что шире кабины грузовика, молодая девушка, пристегнутая ремнем, включает машину.</text>
             <text>Над кнопкой включения находится пятнистая лампа. Спидометр окружен трудночитаемыми русскими буквами.</text>
             <bgm src="peerGynt.mp3" status="start"></bgm>
             <text>И...Н...Т...Е...Р...К...О...С...М...О...С...</text>
             <text>ИНТЕРКОСМОС (INTERKOSMOS)</text>
-            <!-- RENAME: Примерно полвека назад организация 「Судьба」 помогла человечеству отправить на Луну нескольких астронавтов самых разных национальностей. -->
+            <!-- ПЕРЕИМЕНОВАНИЕ: Примерно полвека назад организация 「Судьба」 помогла человечеству отправить на Луну нескольких астронавтов самых разных национальностей. -->
             <text>Примерно полвека назад организация 「Шиксал」 помогла человечеству отправить на Луну нескольких астронавтов самых разных национальностей.</text>
             <text>Эта машина - реликвия той славной эпохи.</text>
-            <speak chara="_mechanicalSound">Warm-up is over.</speak>
-            <speak chara="_mechanicalSound">Current simulation magnification, 0.2.</speak>
-            <speak chara="_mechanicalSound">Starting operation.</speak>
-            <text>The smell of oil, the sound of machinery and the movement of the girl's hips serve as a signal to know the air pressurization system has begun to adjust the gravity.</text>
-            <text>Now her ankles and knees are only supporting 20% of her weight——</text>
-            <text>This will let the young girl run tens of kilometers continuously without risking damage to her joints.</text>
-            <text>The morning sun rises in the distance.</text>
-            <text>Valkyrie Durandal has begun another day of training.</text>
+            <speak chara="_mechanicalSound">Прогрев окончен.</speak>
+            <speak chara="_mechanicalSound">Текущая кратность симуляции - 0.2.</speak>
+            <speak chara="_mechanicalSound">Запуск операции.</speak>
+            <text>Запах масла, звук механизмов и движение бедер девушки служат сигналом о том, что система герметизации воздуха начала регулировать гравитацию.</text>
+            <text>Теперь ее лодыжки и колени поддерживают только 20% ее веса——</text>
+            <text>Это позволит ей без проблем пробегать десятки километров, не рискуя повредить суставы.</text>
+            <text>Вдали встает утреннее солнце.</text>
+            <text>Валькирия Дюрандаль начала очередной день тренировок.</text>
             <goto goto="10" clockwise="1"/>
         </scene>
         <scene id="10" background="gymnasium.jpg">
             <bgm src="peerGynt.mp3" status="continue"></bgm>
             <show chara="biankaSportSmileClose" position="right"/>
-            <speak chara="_Durandal">Average heart rate is 125... Good, this is perfect.</speak>
+            <speak chara="_Durandal">Средняя частота биения сердца составляет 125... Окей, идеально.</speak>
             <show chara="biankaSportSmileClose" position="right" opacity="0.8"/>
             <show chara="ritaMaidSmileClose" position="left"/>
-            <speak chara="_Rita">In that case, 「Bianka」-sama, shall we have breakfast?</speak>
+            <speak chara="_Rita">В таком случае, 「Бьянка」-сама, не позавтракать ли нам?</speak>
             <show chara="ritaMaidSquintClose" position="left"/>
-            <speak chara="_Rita" remark="next">Today's dessert is a freshly baked Cheese Mille-feuille.</speak>
+            <speak chara="_Rita" remark="next">Сегодняшний десерт - свежеиспеченный сыр Милль-фейль.</speak>
             <remark post="U2FsdGVkX18du3l7nMcHK1ORJgIy">
                 <p class="article-text-h">Note：</p>
                 <p class="article-text">法式千层酥（mille-feuille）是由三层酥皮夹两层奶油或果酱制成的一类蛋糕，其发明灵感可能源自那不勒斯的披萨。</p>
