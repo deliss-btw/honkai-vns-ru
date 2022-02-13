@@ -102,42 +102,42 @@
             <speak chara="_BiankaNoName">Это насколько бесхребетным нужно быть!?</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="rita17HesitateClose" position="right"/>
-            <speak chara="_RitaNoName">Well, before they drifted here they didn't have any sailing experience...</speak>
+            <speak chara="_RitaNoName">Ну, до того, как они приплыли сюда, у них не было никакого опыта плавания...</speak>
             <show chara="rita17NormalClose" position="right"/>
-            <speak chara="_RitaNoName">...It's natural they would be afraid of the mythical sea monster 「Leviathan」.</speak>
+            <speak chara="_RitaNoName">...Естественно, что они боятся мифического морского чудовища "Левиафана".</speak>
             <show chara="rita17NormalClose" position="right" opacity="0.8"/>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_BiankaNoName">What—— Are you saying it's okay for them to never leave this island? It's okay for them to keep living only picking up shells and catching crabs?</speak>
+            <speak chara="_BiankaNoName">Что... Ты хочешь сказать, что для них нормально никогда не покидать этот остров? Это нормально, что они продолжают жить, собирая ракушки и ловя крабов?</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="rita17SquintClose" position="right"/>
-            <speak chara="_RitaNoName">There is a saying that goes 「The boat should be near the coast」.</speak>
+            <speak chara="_RitaNoName">Есть такая поговорка: "Лодка должна быть у берега".</speak>
             <show chara="rita17SquintClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_BiankaNoName">...What?</speak>
+            <speak chara="_BiankaNoName">...Что?</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="rita17SquintClose" position="right"/>
-            <speak chara="_RitaNoName">Bianka-sama, the 「average person」 is pessimistic and realistic. Before they even start considering the rewards of their success, they look at the consequences of their failure.</speak>
+            <speak chara="_RitaNoName">Бьянка-сама, "обычный человек" пессимистичен и реалистичен. Прежде чем они даже начнут размышлять о вознаграждении за свой успех, они смотрят на последствия своей неудачи.</speak>
             <show chara="rita17HesitateClose" position="right"/>
-            <speak chara="_RitaNoName">If a person like that is put against the sea, a completely unknown world to them—— They won't be able to fight back against their fears.</speak>
+            <speak chara="_RitaNoName">Если такого человека поставить против моря в совершенно незнакомом ему мире... Он не сможет бороться со своими страхами.</speak>
             <show chara="rita17HesitateClose" position="right"/>
-            <speak chara="_RitaNoName">The name 「Leviathan」...</speak>
-            <speak chara="_RitaNoName">Makes them subconsciously believe that sailing to the sea is equal to becoming an enemy of nature itself——</speak>
-            <speak chara="_RitaNoName">——In other words, they are committing suicide.</speak>
+            <speak chara="_RitaNoName">Имя "Левиафан"...</speak>
+            <speak chara="_RitaNoName">Заставляет их подсознательно верить, что плыть к морю равносильно тому, чтобы стать врагом самой природы——</speak>
+            <speak chara="_RitaNoName">——Другими словами, они думают, что совершают самоубийство.</speak>
             <show chara="rita17SquintClose" position="right"/>
-            <speak chara="_RitaNoName">Thus, from their perspective, we are naive 「crazy adventurers」.</speak>
+            <speak chara="_RitaNoName">Таким образом, с их точки зрения, мы - наивные "сумасшедшие авантюристы".</speak>
             <show chara="rita17SquintClose" position="right" opacity="0.8"/>
             <show chara="biankaSighClose" position="left"/>
-            <speak chara="_Bianka">Hm. Sympathizing with the weak?</speak>
+            <speak chara="_Bianka">Хм. Сочувствуешь слабым?</speak>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">Also——</speak>
+            <speak chara="_Bianka">К тому же——</speak>
             <show chara="biankaSneerClose" position="left"/>
-            <speak chara="_Bianka">——Rita, how many times have I told you today?</speak>
-            <speak chara="_Bianka">Stop adding 「-sama」 to my name... It's creepy.</speak>
+            <speak chara="_Bianka">——Рита, сколько раз я тебе говорила?</speak>
+            <speak chara="_Bianka">Перестань добавлять "-сама" к моему имени... Это жутко.</speak>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">I'm a Valkyrie who only met you right before this mission started, and you only became my adjutant due to a certain someone's insistence.</speak>
+            <speak chara="_Bianka">Я Валькирия, которая встретила тебя только перед началом этой миссии, и ты стала моим адъютантом только благодаря чьей-то настойчивости.</speak>
             <show chara="biankaShoutClose" position="left"/>
             <!-- RENAME: ——Please stop talking to me the same way you talk to the Bishop! -->
-            <speak chara="_Bianka">——Please stop talking to me the same way you talk to the Overseer!</speak>
+            <speak chara="_Bianka">—— Пожалуйста, перестань разговаривать со мной так же, как ты разговариваешь с Епископом!</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="rita17NormalClose" position="right"/>
             <speak chara="_Rita">Understood, Bianka-sama.</speak>
