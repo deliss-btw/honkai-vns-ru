@@ -86,7 +86,7 @@
             <bgm src="peerGynt.mp3" status="continue"></bgm>
             <text>И сейчас...</text>
             <text>История перенесется назад на 1461 день с 29 февраля 2016 года——</text>
-            <text>До того момента, когда Бьянка Атаегина и Рита Россвайс прибыли в 「Море Кванта」."</text>
+            <text>До того момента, когда Бьянка Атаегина и Рита Россвайс прибыли в 「Море Кванта」.</text>
             <goto goto="40" change="#ffffff"/>
         </scene>
         <scene id="40" background="fishingVillage.jpg">
@@ -156,7 +156,7 @@
             <show chara="biankaSeriousClose" position="left"/>
             <speak chara="_Bianka">Излишне говорить, что до тех пор, пока наша миссия не будет завершена, мы планируем участвовать во всех ваших радостях и печалях.</speak>
             <show chara="biankaConfidentClose" position="left"/>
-            <speak chara="_Bianka">Я Бьянка Атагина, а это мой адъютант, Рита Россвайс —— Чем мы можем вам помочь?</speak>
+            <speak chara="_Bianka">Я Бьянка Атаегина, а это мой адъютант, Рита Россвайс —— Чем мы можем вам помочь?</speak>
             <show chara="biankaConfidentClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
             <speak chara="_MiguelNoName">Хахахаха!</speak>
@@ -223,7 +223,7 @@
             <speak chara="_Bianka">Неужели Левиафан так долго держал людей в ловушке на острове?</speak>
             <show chara="biankaSeriousClose" position="left" opacity="0.8"/>
             <show chara="cervantesNormalClose" position="right"/>
-            <speak chara="_Miguel">Хм, это могло продлиться и дольше. Похоже, он свил гнездо у побережья и отказывается улетать отсюда.</speak>
+            <speak chara="_Miguel">Хм, это могло продлиться и дольше. Похоже, он свил гнездо у побережья и отказывается покидать его.</speak>
             <show chara="cervantesSeriousClose" position="right"/>
             <speak chara="_Miguel">Хотя в течение первого года после того, как приехал сюда, я ловил много рыбы.</speak>
             <show chara="cervantesSeriousClose" position="right" opacity="0.8"/>
@@ -243,7 +243,8 @@
             <show chara="cervantesGazeClose" position="right"/>
             <speak chara="_Miguel">——Самое главное - иметь мощный корабль.</speak>
             <show chara="cervantesShoutClose" position="right"/>
-            <speak chara="_Miguel">Киль! Треугольные и квадратные паруса! Это самое главное.</speak>
+            <speak chara="_Miguel">Киль! Спинакер и квадратные паруса! Это самое главное.</speak>
+            <speak chara="_Texts">Спинакер - треугольный парус, самый большой на корабле.</speak>
             <show chara="cervantesLaughClose" position="right"/>
             <speak chara="_Miguel">Вы думаете, кто-то будет искать новые земли на ненадежной деревянной лодке? Это невозможно, море не такое уж нежное.</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
@@ -322,7 +323,7 @@
             <show chara="cervantesLaughClose" position="right"/>
             <speak chara="_Cervantes">Хаха, не будьте такой скованной, мисс. Можете называть меня просто Мигель.</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">That's easy.</speak>
+            <speak chara="_Miguel">Это просто.</speak>
             <show chara="cervantesNormalClose" position="right"/>
             <speak chara="_Miguel">Я буду капитаном, буду управлять кораблем и решать, когда мы должны наступать и отступать. Что касается вас двоих...</speak>
             <show chara="cervantesSmileClose" position="right"/>
@@ -341,7 +342,7 @@
             <speak chara="_Rita">...Что нам делать, если на нас нападет Левиафан? Эта тростниковая лодка маленькая...</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">Я воспользуюсь течением, чтобы не дать ему возможности напасть на нас Это просто!</speak>
+            <speak chara="_Miguel">Я воспользуюсь течением, чтобы не дать ему возможности напасть на нас!</speak>
             <show chara="cervantesSmileClose" position="right"/>
             <speak chara="_Miguel">Ах да, разве вы двое не показывали кое-что людям на острове? "Пушка", способная разрушать даже валуны - еще раз, как она там называлась ...</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
@@ -386,7 +387,7 @@
             <text>Полуденное солнце освещает поверхность моря. Отраженный свет настолько ослепителен, что трудно держать глаза открытыми.</text>
             <text>Старик продолжал грести лодку своими длинными веслами, уверенно продвигаясь вперед по волнистым волнам.</text>
             <show chara="cervantesGazeClose" position="right"/>
-            <speak chara="_Miguel">Осторожно. Он идет.</speak>
+            <speak chara="_Miguel">Осторожно. Он приближается.</speak>
             <show chara="cervantesGazeClose" position="right" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="left"/>
             <speak chara="_Bianka">...Я не чувствую ничего поблизости.</speak>
@@ -415,7 +416,7 @@
             <speak chara="_Miguel">——Подождите, что это за звук!?</speak>
             <show chara="cervantesShoutClose" position="right" opacity="0.8"/>
             <show chara="rita17AngryClose" position="left"/>
-            <speak chara="_Rita">Звук техники!?</speak>
+            <speak chara="_Rita">Шум техники!?</speak>
             <show chara="biankaShoutClose" position="left"/>
             <speak chara="_Bianka">Смотрите! Там что-то черное под водой...!</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
