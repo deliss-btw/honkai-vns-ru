@@ -77,7 +77,7 @@
             <text>Время начала: 29 февраля 2012 года</text>
             <text>Локация: ██████████ - Море Кванта  </text>
             <text>Цель: ██████████</text>
-            <text>Участники: Бьянка "Дюрандаль" Атаегина (12), Рита Россвайс (16)</text>
+            <text>Участники: Бьянка "Дюрандаль" Атаегина (12 лет), Рита Россвайс (16 лет)</text>
             <text>Статус: Закрыта</text>
             <text>Рассмотрено: Отто Апокалипсисом</text>
             <goto goto="30" change="#ffffff"/>
@@ -140,33 +140,33 @@
             <speak chara="_Bianka">—— Пожалуйста, перестань разговаривать со мной так же, как ты разговариваешь с Епископом!</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="rita17NormalClose" position="right"/>
-            <speak chara="_Rita">Understood, Bianka-sama.</speak>
+            <speak chara="_Rita">Поняла, Бьянка-сама.</speak>
             <show chara="rita17NormalClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <bgm src="legion.mp3" status="start"></bgm>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_MiguelNoName">Excuse me.</speak>
-            <speak chara="_MiguelNoName">You two... are you perhaps new here?</speak>
+            <speak chara="_MiguelNoName">Прошу прощения.</speak>
+            <speak chara="_MiguelNoName">Вы двое... видимо, новенькие здесь?</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaConfidentClose" position="left"/>
-            <speak chara="_Bianka">...Yes.</speak>
-            <speak chara="_Bianka">We've been here for 38 minutes and 25 seconds—— No, 26 seconds now.</speak>
+            <speak chara="_Bianka">...Да.</speak>
+            <speak chara="_Bianka">Мы здесь уже 38 минут и 25 секунд —— нет, уже 26 секунд.</speak>
             <show chara="biankaProudClose" position="left"/>
-            <speak chara="_Bianka">However, unlike you all, we've come here to 「explore」 rather than to 「escape」.</speak>
+            <speak chara="_Bianka">Однако, в отличие от всех вас, мы пришли сюда, чтобы [Исследовать], а не [Сбегать].</speak>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">Needless to say, until our mission is completed—— We plan to involve ourselves in all your joys and sorrows.</speak>
+            <speak chara="_Bianka">Излишне говорить, что до тех пор, пока наша миссия не будет завершена, мы планируем участвовать во всех ваших радостях и печалях.</speak>
             <show chara="biankaConfidentClose" position="left"/>
             <!-- RENAME: I am Bianka Atagina, and this my adjutant, Rita Rossweisse—— How can we help you? -->
-            <speak chara="_Bianka">I am Bianka Ataegina, and this my adjutant, Rita Rossweisse—— How can we help you?</speak>
+            <speak chara="_Bianka">Я Бьянка Атагина, а это мой адъютант, Рита Россвайсс —— Чем мы можем вам помочь?</speak>
             <show chara="biankaConfidentClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_MiguelNoName">Hahahaha!</speak>
-            <speak chara="_MiguelNoName">Ahahahaha!</speak>
+            <speak chara="_MiguelNoName">Хахахаха!</speak>
+            <speak chara="_MiguelNoName">Ахахахахаха!</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaAngryClose" position="left"/>
-            <speak chara="_Bianka">...What's so funny?</speak>
+            <speak chara="_Bianka">...Что смешного?</speak>
             <show chara="biankaAngryClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
             <speak chara="_MiguelNoName">My apologies! We the elderly just like to laugh. Please don't mind it, miss explorer.</speak>
