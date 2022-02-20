@@ -107,7 +107,7 @@
             <speak chara="_RitaNoName">...Естественно, что они боятся мифического морского чудовища "Левиафана".</speak>
             <show chara="rita17NormalClose" position="right" opacity="0.8"/>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_BiankaNoName">Что... Ты хочешь сказать, что для них нормально никогда не покидать этот остров? Это нормально, что они продолжают жить, собирая ракушки и ловя крабов?</speak>
+            <speak chara="_BiankaNoName">Что... Ты хочешь сказать, что для них нормально никогда не покидать этот остров? Нормально, что они продолжают жить, собирая ракушки и ловя крабов?</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="rita17SquintClose" position="right"/>
             <speak chara="_RitaNoName">Есть такая поговорка: "Лодка должна быть у берега".</speak>
@@ -116,7 +116,7 @@
             <speak chara="_BiankaNoName">...Что?</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="rita17SquintClose" position="right"/>
-            <speak chara="_RitaNoName">Бьянка-сама, "обычный человек" пессимистичен и реалистичен. Прежде чем они даже начнут размышлять о вознаграждении за свой успех, они смотрят на последствия своей неудачи.</speak>
+            <speak chara="_RitaNoName">Бьянка-сама, "обычный человек" пессимистичен и реалистичен. Прежде чем они даже начнут размышлять о вознаграждении, они смотрят на последствия своей неудачи.</speak>
             <show chara="rita17HesitateClose" position="right"/>
             <speak chara="_RitaNoName">Если такого человека поставить против моря в совершенно незнакомом ему мире... Он не сможет бороться со своими страхами.</speak>
             <show chara="rita17HesitateClose" position="right"/>
@@ -159,7 +159,7 @@
             <speak chara="_Bianka">Излишне говорить, что до тех пор, пока наша миссия не будет завершена, мы планируем участвовать во всех ваших радостях и печалях.</speak>
             <show chara="biankaConfidentClose" position="left"/>
             <!-- RENAME: I am Bianka Atagina, and this my adjutant, Rita Rossweisse—— How can we help you? -->
-            <speak chara="_Bianka">Я Бьянка Атагина, а это мой адъютант, Рита Россвайсс —— Чем мы можем вам помочь?</speak>
+            <speak chara="_Bianka">Я Бьянка Атагина, а это мой адъютант, Рита Россвайс —— Чем мы можем вам помочь?</speak>
             <show chara="biankaConfidentClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
             <speak chara="_MiguelNoName">Хахахаха!</speak>
@@ -169,106 +169,107 @@
             <speak chara="_Bianka">...Что смешного?</speak>
             <show chara="biankaAngryClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_MiguelNoName">My apologies! We the elderly just like to laugh. Please don't mind it, miss explorer.</speak>
+            <speak chara="_MiguelNoName">Мои извинения! Мы, пожилые люди, просто любим посмеяться. Пожалуйста, не обращайте на это внимания, мисс исследователь.</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaAngryClose" position="left"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaAngryClose" position="left" opacity="0.8"/>
             <show chara="cervantesNormalClose" position="right"/>
-            <speak chara="_MiguelNoName">Anyway——</speak>
+            <speak chara="_MiguelNoName">В любом случае——</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_MiguelNoName">I heard you two are trying to gather forces to defeat the 「Leviathan」 and open the way to the ocean.</speak>
+            <speak chara="_MiguelNoName">Я слышал, вы двое пытаетесь собрать силы, чтобы победить [Левиафана] и открыть путь к океану.</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">Yes, that's correct.</speak>
+            <speak chara="_Bianka">Да, все верно.</speak>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">Not a single person wanted to fight together with us though!</speak>
+            <speak chara="_Bianka">Но ни один человек не захотел сражаться вместе с нами!</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_MiguelNoName">Haha... Understandable. None of them are warriors——</speak>
+            <speak chara="_MiguelNoName">Хаха... Понятно. Никто из них не может быть воином...</speak>
             <show chara="cervantesGazeClose" position="right"/>
-            <speak chara="_MiguelNoName">——They can't be compared with heroes who have seen hell itself.</speak>
+            <speak chara="_MiguelNoName">——Они не могут сравниться с героями, которые своими глазами узрели ад.</speak>
             <show chara="cervantesGazeClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
-            <speak chara="_Rita">How do you know that...</speak>
+            <speak chara="_Rita">Откуда ты знаешь...</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_MiguelNoName">Hahaha, when you get to my age you can just tell by looking at someone's eyes!</speak>
+            <speak chara="_MiguelNoName">Хахаха, когда ты доживешь до моего возраста, ты сможешь это определить, просто посмотрев кому-нибудь в глаза!</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_MiguelNoName">I'm Miguel. Let me get straight to the point——</speak>
+            <speak chara="_MiguelNoName">Я Мигель. Позвольте мне сразу перейти к делу——</speak>
             <show chara="cervantesGazeClose" position="right"/>
-            <speak chara="_Miguel">Brave warriors... Would you embark on an epic hunt together with this old sailor who can't even move his left hand?</speak>
+            <speak chara="_Miguel">Храбрые воины... Отправились бы вы на эпическую охоту вместе с этим старым моряком, который даже левой рукой пошевелить не может?</speak>
             <show chara="cervantesGazeClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
-            <speak chara="_Rita">What?</speak>
+            <speak chara="_Rita">Что?</speak>
             <show chara="biankaProudClose" position="left"/>
-            <speak chara="_Bianka">You mean...</speak>
+            <speak chara="_Bianka">Ты имеешь в виду...</speak>
             <show chara="biankaProudClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">In short, I'll provide you with a ship and take care of steering it.</speak>
+            <speak chara="_Miguel">Если кратко, я дам тебе корабль и позабочусь о его управлении.</speak>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">——Though all I have is a reed boat! Hahaha!</speak>
+            <speak chara="_Miguel">——Хотя все, что у меня есть, это тростниковая лодка! Хахаха!</speak>
             <goto goto="50" clockwise="1"/>
         </scene>
         <scene id="50" background="beachIslandNoName.jpg">
             <bgm src="peerGynt.mp3" status="start"></bgm>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">O sea, my old friend!</speak>
-            <speak chara="_Miguel">I thank you for not breaking this tattered ship so that we may sail again today!</speak>
+            <speak chara="_Miguel">О море, мой старый друг!</speak>
+            <speak chara="_Miguel">Я благодарю вас за то, что не разбили этот потрепанный корабль, чтобы мы могли сегодня снова плыть!</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaSighClose" position="left"/>
-            <speak chara="_Bianka">...What's up with you?</speak>
+            <speak chara="_Bianka">...Что с тобой?</speak>
             <show chara="biankaSighClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">Hahaha... Look, this reed boat hasn't seen any action in 3 years but it's still ready to go!</speak>
+            <speak chara="_Miguel">Хахаха.... Смотрите, эта лодка бездельно пролежала 3 года, но все еще готова к работе!</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">Has the 「Leviathan」 kept people trapped on the island for that long?</speak>
+            <speak chara="_Bianka">Неужели [Левиафан] так долго держал людей в ловушке на острове?</speak>
             <show chara="biankaSeriousClose" position="left" opacity="0.8"/>
             <show chara="cervantesNormalClose" position="right"/>
-            <speak chara="_Miguel">Hmm, it could be even longer. Seems to have made a nest near the coast and refuses to go away.</speak>
+            <speak chara="_Miguel">Хм, это могло продлиться и дольше. Похоже, он свил гнездо у побережья и отказывается улетать отсюда.</speak>
             <show chara="cervantesSeriousClose" position="right"/>
-            <speak chara="_Miguel">Though the first year after I came here I was still catching plenty of fish.</speak>
+            <speak chara="_Miguel">Хотя в течение первого года после того, как приехал сюда, я ловил много рыбы.</speak>
             <show chara="cervantesSeriousClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
-            <speak chara="_Rita">...You didn't see any other people out in the sea when you went out fishing?</speak>
+            <speak chara="_Rita">...Вы не видели других людей в море, когда ходили на рыбалку?</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="cervantesNormalClose" position="right"/>
-            <speak chara="_Miguel">None. Just look at it.</speak>
+            <speak chara="_Miguel">Нет. Просто посмотри на это.</speak>
             <show chara="cervantesSeriousClose" position="right"/>
-            <speak chara="_Miguel">There is no other land nearby—— Not even Columbus himself would sail without making the necessary preparations.</speak>
+            <speak chara="_Miguel">Поблизости нет других земель... Даже сам Колумб не отправился бы в плавание без необходимых приготовлений.</speak>
             <show chara="cervantesSeriousClose" position="right" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">...By preparation you mean enough food and water?</speak>
+            <speak chara="_Bianka">...Под подготовкой вы подразумеваете достаточное количество еды и воды?</speak>
             <show chara="biankaSeriousClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">Yeah, you need those too but——</speak>
+            <speak chara="_Miguel">Да, они тоже нужны, но——</speak>
             <show chara="cervantesGazeClose" position="right"/>
-            <speak chara="_Miguel">——The most important thing is to have a 「strong ship」.</speak>
+            <speak chara="_Miguel">——Самое главное - иметь 「мощный корабль」.</speak>
             <show chara="cervantesShoutClose" position="right"/>
-            <speak chara="_Miguel">Keels! Triangle and square sails! That's what matters the most.</speak>
+            <speak chara="_Miguel">Киль! Треугольные и квадратные паруса! Это самое главное.</speak>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">Do you think anyone would look for new lands on an unreliable wooden boat? It's impossible, the sea is not so soft.</speak>
+            <speak chara="_Miguel">Вы думаете, кто-то будет искать новые земли на ненадежной деревянной лодке? Это невозможно, море не такое уж нежное.</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaAngryClose" position="left"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaAngryClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">But if you can defeat the 「Leviathan」, then I'm sure everyone will start listening to you and build a ship strong enough to sail across the sea.</speak>
+            <speak chara="_Miguel">Но если вы сможете победить 「Левиафана」, тогда, я уверен, все начнут слушаться вас и построят корабль, достаточно сильный, чтобы переплыть море.</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_Bianka">Are you sure about that?</speak>
+            <speak chara="_Bianka">Вы уверены в этом?</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">Hahaha, isn't humanity a creature that lives on faith?</speak>
+            <speak chara="_Miguel">Хахаха, разве человечество не живет на одной лишь вере?</speak>
             <show chara="cervantesNormalClose" position="right"/>
-            <speak chara="_Miguel">For example, do you know why a small group of Spanish soldiers was able to win against an immeasurable number of barbarians?</speak>
+            <speak chara="_Miguel">Например, знаете ли вы, почему небольшая группа испанских солдат смогла одержать победу над неизмеримым количеством варваров?</speak>
             <show chara="cervantesGazeClose" position="right"/>
-            <speak chara="_Miguel">It wasn't because they had enormous power on their side—— But because they never let the enemy feel they had a chance of winning.</speak>
+            <speak chara="_Miguel">И не потому, что на их стороне была огромная сила... А потому, что они никогда не позволяли врагу почувствовать, что у него есть шанс на победу.</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">That's how a mere 200 adventurers were able to fight against thousands and conquer Peru.</speak>
+            <speak chara="_Miguel">Вот как всего 200 искателей приключений смогли сразиться с тысячами и завоевать Перу.</speak>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">The Battle of Lepanto was won also by a small number and it wasn't thanks to the Galleass—— The enemy was beaten by their momentum.</speak>
+            <speak chara="_Miguel">Битва при Лепанто также была выиграна небольшим числом, и это было не благодаря Галеасам - враг был побежден их инерцией.</speak>
+            <speak chara="_Texts">*Галеас - класс военных кораблей, предназначены для артиллерии Галеонов</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
             <speak chara="_Rita">Could it be... You are from the imperial age of Spain?</speak>
