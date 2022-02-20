@@ -4,7 +4,7 @@
         <character name="画外音" color="#8F8F8F" id="0" src=""/>
         <character name="睁眼" color="#ffffff" id="eyeOpening" src="x_eyeOpening.png"/>
         <character name="冰霜特效" color="#ffffff" id="iceFrozen" src="x_iceFrozen.png"/>
-        <character name="Звук механизмов" color="#dddddd" id="_mechanicalSound" src=""/>
+        <character name="Механический звук" color="#dddddd" id="_mechanicalSound" src=""/>
         <character name="Narrator" color="#dddddd" id="_NarrationVenice" src=""/>
         <character name="Curtain" color="#dddddd" id="0curtain" src="0curtain.png"/>
         <character name="Other Maid" color="#dddddd" id="_NPCMaidNoName" src=""/>
@@ -79,7 +79,7 @@
         <character name="Рита" color="#ddcab3" id="ritaVestHesitateClose" src="05_31_ritaVestHesitateClose.png"/>
         <character name="Рита" color="#ddcab3" id="ritaVestNaughtyClose-up" src="05_31_ritaVestNaughtyClose-up.png"/>
         <character name="Рита" color="#ddcab3" id="ritaVestTearClose-up" src="06_01_ritaVestTearClose-up.png"/>
-        <character name="Girl" color="#ffffff" id="_BiankaNoName" src=""/>
+        <character name="Девочка" color="#ffffff" id="_BiankaNoName" src=""/>
         <character name="Бьянка" color="#ffffff" id="_Bianka" src=""/>
         <character name="??? (Bianka)" color="#ffffff" id="_BiankaVeniceNoName" src=""/>
         <character name="Bassanio" color="#ffffff" id="_BiankaVenice" src=""/>
@@ -142,10 +142,11 @@
         <character name="Бьянка" color="#ffffff" id="biankaDressSmileClose" src="05_31_biankaDressSmileClose.png"/>
         <character name="Бьянка" color="#ffffff" id="biankaDressSorrowClose-up" src="05_31_biankaDressSorrowClose-up.png"/>
         <character name="Бьянка" color="#ffffff" id="biankaDressNormalClose-up" src="05_31_biankaDressNormalClose-up.png"/>
-        <character name="Maid" color="#ddcab3" id="_RitaNoName" src=""/>
-        <character name="Man" color="#d0c8c4" id="_MiguelNoName" src=""/>
-        <character name="Miguel" color="#d0c8c4" id="_Miguel" src=""/>
-        <character name="Cervantes" color="#d0c8c4" id="_Cervantes" src=""/>
+        <character name="Горничная" color="#ddcab3" id="_RitaNoName" src=""/>
+        <character name="Старик" color="#d0c8c4" id="_MiguelNoName" src=""/>
+        <character name="Мигель" color="#d0c8c4" id="_Miguel" src=""/>
+        <character name="Подсказка" color="#d0c8c4" id="_Texts" src=""/>
+        <character name="Сервантес" color="#d0c8c4" id="_Cervantes" src=""/>
         <character name="Duke" color="#d0c8c4" id="_CervantesVenice" src=""/>
         <character name="Duke (Miguel)" color="#d0c8c4" id="_CervantesVeniceSelf" src=""/>
         <character name="Duke (Miguel)" color="#d0c8c4" id="DogeNormal" src="DogeNormal.png"/>
@@ -154,20 +155,20 @@
         <character name="Duke (Miguel)" color="#d0c8c4" id="DogeAngry" src="DogeAngry.png"/>
         <character name="Duke (Miguel)" color="#d0c8c4" id="DogeHelpless" src="DogeHelpless.png"/>
         <character name="Duke (Miguel)" color="#d0c8c4" id="DogeSmile" src="DogeSmile.png"/>
-        <character name="Miguel" color="#d0c8c4" id="cervantesSmileClose" src="cervantesSmileClose.png"/>
-        <character name="Miguel" color="#d0c8c4" id="cervantesLaughClose" src="cervantesLaughClose.png"/>
-        <character name="Miguel" color="#d0c8c4" id="cervantesNormalClose" src="cervantesNormalClose.png"/>
-        <character name="Miguel" color="#d0c8c4" id="cervantesGazeClose" src="cervantesGazeClose.png"/>
-        <character name="Miguel" color="#d0c8c4" id="cervantesSeriousClose" src="cervantesSeriousClose.png"/>
-        <character name="Miguel" color="#d0c8c4" id="cervantesShoutClose" src="cervantesShoutClose.png"/>
-        <character name="Miguel" color="#d0c8c4" id="cervantesShoutClose-up" src="11_15_cervantesShoutClose-up.png"/>
-        <character name="Miguel" color="#d0c8c4" id="cervantesSeriousClose-up" src="11_15_cervantesSeriousClose-up.png"/>
-        <character name="Miguel" color="#d0c8c4" id="cervantesGazeClose-up" src="11_15_cervantesGazeClose-up.png"/>
-        <character name="Miguel" color="#d0c8c4" id="cervantesSailorLaughClose" src="05_16_cervantesSailorLaughClose.png"/>
-        <character name="Miguel" color="#d0c8c4" id="cervantesSailorSmileClose" src="05_16_cervantesSailorSmileClose.png"/>
-        <character name="Miguel" color="#d0c8c4" id="cervantesSailorNormalClose" src="05_16_cervantesSailorNormalClose.png"/>
-        <character name="Miguel" color="#d0c8c4" id="cervantesSailorStareClose" src="05_16_cervantesSailorStareClose.png"/>
-        <character name="Miguel" color="#d0c8c4" id="cervantesSailorUnhappyClose" src="05_31_cervantesSailorUnhappyClose.png"/>
+        <character name="Мигель" color="#d0c8c4" id="cervantesSmileClose" src="cervantesSmileClose.png"/>
+        <character name="Мигель" color="#d0c8c4" id="cervantesLaughClose" src="cervantesLaughClose.png"/>
+        <character name="Мигель" color="#d0c8c4" id="cervantesNormalClose" src="cervantesNormalClose.png"/>
+        <character name="Мигель" color="#d0c8c4" id="cervantesGazeClose" src="cervantesGazeClose.png"/>
+        <character name="Мигель" color="#d0c8c4" id="cervantesSeriousClose" src="cervantesSeriousClose.png"/>
+        <character name="Мигель" color="#d0c8c4" id="cervantesShoutClose" src="cervantesShoutClose.png"/>
+        <character name="Мигель" color="#d0c8c4" id="cervantesShoutClose-up" src="11_15_cervantesShoutClose-up.png"/>
+        <character name="Мигель" color="#d0c8c4" id="cervantesSeriousClose-up" src="11_15_cervantesSeriousClose-up.png"/>
+        <character name="Мигель" color="#d0c8c4" id="cervantesGazeClose-up" src="11_15_cervantesGazeClose-up.png"/>
+        <character name="Мигель" color="#d0c8c4" id="cervantesSailorLaughClose" src="05_16_cervantesSailorLaughClose.png"/>
+        <character name="Мигель" color="#d0c8c4" id="cervantesSailorSmileClose" src="05_16_cervantesSailorSmileClose.png"/>
+        <character name="Мигель" color="#d0c8c4" id="cervantesSailorNormalClose" src="05_16_cervantesSailorNormalClose.png"/>
+        <character name="Мигель" color="#d0c8c4" id="cervantesSailorStareClose" src="05_16_cervantesSailorStareClose.png"/>
+        <character name="Мигель" color="#d0c8c4" id="cervantesSailorUnhappyClose" src="05_31_cervantesSailorUnhappyClose.png"/>
         <character name="Kid" color="#93ae75" id="_WattNoName" src=""/>
         <character name="Jimmy" color="#93ae75" id="_Watt" src=""/>
         <character name="Gratiano" color="#93ae75" id="_WattVenice" src=""/>
