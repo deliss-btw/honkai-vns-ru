@@ -145,7 +145,7 @@
         <character name="Горничная" color="#ddcab3" id="_RitaNoName" src=""/>
         <character name="Старик" color="#d0c8c4" id="_MiguelNoName" src=""/>
         <character name="Мигель" color="#d0c8c4" id="_Miguel" src=""/>
-        <character name="Подсказка" color="#d0c8c4" id="_Texts" src=""/>
+        <character name="Подсказка" color="#dc143c" id="_Texts" src=""/>
         <character name="Сервантес" color="#d0c8c4" id="_Cervantes" src=""/>
         <character name="Duke" color="#d0c8c4" id="_CervantesVenice" src=""/>
         <character name="Duke (Miguel)" color="#d0c8c4" id="_CervantesVeniceSelf" src=""/>
