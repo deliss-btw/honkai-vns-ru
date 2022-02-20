@@ -57,7 +57,7 @@
             <show chara="biankaSportSmileClose" position="right"/>
             <speak chara="_Durandal">С того дня, как я встретила тебя... и с того дня, как я встретила их.</speak>
             <show chara="biankaSportHesitateClose" position="right"/>
-            <speak chara="_Durandal">...Даже я привыкла к имени 「Дюрандаль」.</speak>
+            <speak chara="_Durandal">...Даже я привыкла к имени "Дюрандаль".</speak>
             <speak chara="_Durandal">.....</speak>
             <show chara="biankaSportHesitateClose" position="right" opacity="0.8"/>
             <show chara="ritaMaidNormalClose" position="left"/>
@@ -86,7 +86,6 @@
             <bgm src="peerGynt.mp3" status="continue"></bgm>
             <text>И сейчас...</text>
             <text>История перенесется назад на 1461 день с 29 февраля 2016 года——</text>
-            <!-- RENAME: To the moment when Bianka Atagina and Rita Rossweisse arrived at the 「Quantum Sea」. -->
             <text>До того момента, когда Бьянка Атаегина и Рита Россвайс прибыли в 「Море Кванта」."</text>
             <goto goto="40" change="#ffffff"/>
         </scene>
@@ -136,7 +135,6 @@
             <show chara="biankaSeriousClose" position="left"/>
             <speak chara="_Bianka">Я Валькирия, которая встретила тебя только перед началом этой миссии, и ты стала моим адъютантом только благодаря чьей-то настойчивости.</speak>
             <show chara="biankaShoutClose" position="left"/>
-            <!-- RENAME: ——Please stop talking to me the same way you talk to the Bishop! -->
             <speak chara="_Bianka">—— Пожалуйста, перестань разговаривать со мной так же, как ты разговариваешь с Епископом!</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="rita17NormalClose" position="right"/>
@@ -154,11 +152,10 @@
             <speak chara="_Bianka">...Да.</speak>
             <speak chara="_Bianka">Мы здесь уже 38 минут и 25 секунд —— нет, уже 26 секунд.</speak>
             <show chara="biankaProudClose" position="left"/>
-            <speak chara="_Bianka">Однако, в отличие от всех вас, мы пришли сюда, чтобы [Исследовать], а не [Сбегать].</speak>
+            <speak chara="_Bianka">Однако, в отличие от всех вас, мы пришли сюда, чтобы "исследовать", а не "сбегать".</speak>
             <show chara="biankaSeriousClose" position="left"/>
             <speak chara="_Bianka">Излишне говорить, что до тех пор, пока наша миссия не будет завершена, мы планируем участвовать во всех ваших радостях и печалях.</speak>
             <show chara="biankaConfidentClose" position="left"/>
-            <!-- RENAME: I am Bianka Atagina, and this my adjutant, Rita Rossweisse—— How can we help you? -->
             <speak chara="_Bianka">Я Бьянка Атагина, а это мой адъютант, Рита Россвайс —— Чем мы можем вам помочь?</speak>
             <show chara="biankaConfidentClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
@@ -169,7 +166,7 @@
             <speak chara="_Bianka">...Что смешного?</speak>
             <show chara="biankaAngryClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_MiguelNoName">Мои извинения! Мы, пожилые люди, просто любим посмеяться. Пожалуйста, не обращайте на это внимания, мисс исследователь.</speak>
+            <speak chara="_MiguelNoName">Приношу свои извинения! Мы, пожилые люди, просто любим посмеяться. Пожалуйста, не обращайте на это внимания, мисс исследователь.</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaAngryClose" position="left"/>
             <speak chara="_Bianka">.....</speak>
@@ -223,7 +220,7 @@
             <speak chara="_Miguel">Хахаха.... Смотрите, эта лодка бездельно пролежала 3 года, но все еще готова к работе!</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">Неужели [Левиафан] так долго держал людей в ловушке на острове?</speak>
+            <speak chara="_Bianka">Неужели Левиафан так долго держал людей в ловушке на острове?</speak>
             <show chara="biankaSeriousClose" position="left" opacity="0.8"/>
             <show chara="cervantesNormalClose" position="right"/>
             <speak chara="_Miguel">Хм, это могло продлиться и дольше. Похоже, он свил гнездо у побережья и отказывается улетать отсюда.</speak>
@@ -244,7 +241,7 @@
             <show chara="cervantesSmileClose" position="right"/>
             <speak chara="_Miguel">Да, они тоже нужны, но——</speak>
             <show chara="cervantesGazeClose" position="right"/>
-            <speak chara="_Miguel">——Самое главное - иметь 「мощный корабль」.</speak>
+            <speak chara="_Miguel">——Самое главное - иметь мощный корабль.</speak>
             <show chara="cervantesShoutClose" position="right"/>
             <speak chara="_Miguel">Киль! Треугольные и квадратные паруса! Это самое главное.</speak>
             <show chara="cervantesLaughClose" position="right"/>
@@ -254,7 +251,7 @@
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaAngryClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">Но если вы сможете победить 「Левиафана」, тогда, я уверен, все начнут слушаться вас и построят корабль, достаточно сильный, чтобы переплыть море.</speak>
+            <speak chara="_Miguel">Но если вы сможете победить Левиафана, тогда, я уверен, все начнут слушаться вас и построят корабль, достаточно сильный, чтобы переплыть море.</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaShoutClose" position="left"/>
             <speak chara="_Bianka">Вы уверены в этом?</speak>
@@ -269,175 +266,174 @@
             <speak chara="_Miguel">Вот как всего 200 искателей приключений смогли сразиться с тысячами и завоевать Перу.</speak>
             <show chara="cervantesLaughClose" position="right"/>
             <speak chara="_Miguel">Битва при Лепанто также была выиграна небольшим числом, и это было не благодаря Галеасам - враг был побежден их инерцией.</speak>
-            <speak chara="_Texts">*Галеас - класс военных кораблей, предназначены для артиллерии Галеонов</speak>
+            <speak chara="_Texts">*Галеас - класс военных кораблей, предназначены для сочетания скорости галеры и артиллерии галеона</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
-            <speak chara="_Rita">Could it be... You are from the imperial age of Spain?</speak>
+            <speak chara="_Rita">Может быть... Вы из имперской эпохи Испании?</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">Oh, you could tell?</speak>
+            <speak chara="_Miguel">О, у тебя, юная леди, наметанный глаз.</speak>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">I'm not one to brag—— But before I came here I wasn't just a veteran soldier, but a cultured person who wrote many books too!</speak>
+            <speak chara="_Miguel">Я не любитель хвастаться... Но до приезда сюда я был не только солдатом, но и культурным человеком, написавшим много книг!</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaSneerClose" position="left"/>
-            <speak chara="_Bianka">Heh, that attitude makes me think your books didn't sell well.</speak>
+            <speak chara="_Bianka">Хех, такое отношение заставляет меня думать, что ваши книги плохо продавались.</speak>
             <show chara="biankaSneerClose" position="left" opacity="0.8"/>
             <show chara="cervantesSeriousClose" position="right"/>
-            <speak chara="_Miguel">Hmmm... You got a point. I don't know if I'm famous 400 years in the future.</speak>
+            <speak chara="_Miguel">Хммм... Ты в чем-то права. Я не знаю, стану ли я знаменитым через 400 лет.</speak>
             <show chara="cervantesNormalClose" position="right"/>
-            <speak chara="_Miguel">Some of the books I wrote are 《La Galatea》, 《The Travails of Persiles and Sigismunda》——</speak>
+            <speak chara="_Miguel">Некоторые из книг, которые я написал, - "Галатея", "Странствия Персилеса и Сихизмунды"——</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">——And 《Don Quixote》.</speak>
+            <speak chara="_Miguel">—— И "Дон Кихот".</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
-            <speak chara="_Rita">You are...</speak>
-            <speak chara="_Rita" remark="next">Could it be you are... Miguel De Cervantes?</speak>
+            <speak chara="_Rita">Вы...</speak>
+            <speak chara="_Rita" remark="next">Может быть, вы... Мигель де Сервантес?</speak>
             <remark post="U2FsdGVkX19Bo9kqC3iZolEItRdA">
                 <p class="article-text-h">Note：</p>
-                <p class="article-text">米格尔·德·塞万提斯·萨维德拉（Miguel de Cervantes Saavedra, 1547 ~ 1616）是西班牙文学世界里最伟大的作家，甚至连西班牙语都被称为“塞万提斯的语言”。他的《堂吉诃德》，被认为是文学史上的第一部“现代小说”。</p>
-                <p class="article-text">塞万提斯曾作为普通军人参加了1571年10月7日的勒班陀战役。在八年后撰写的一项官方报告中这样写道：“……在这场海战中，塞万提斯发着高烧，状态很差，连长和战友告诉他：你的情况很糟糕，应该好好躺在帆船的房间里。塞万提斯指责道：你们说什么呢，我没有尽到我应尽的义务，与其当怕死鬼，倒宁愿为了上帝和国王而战死……他就这样与战友们一起，像连长所命令的那样，在这场战斗中和土耳其人搏斗着。战斗结束后，胡安将军知晓了他的英勇表现，给了他额外的四个金币……在这场战役中，他的胸部和手部两处受伤，他的左手从此残废了。”</p>
+                <p class="article-text">Машинный перевод, не ручаюсь за правильность: Мигель де Сервантес Сааведра (1547 ~ 1616) - величайший писатель в мире испанской литературы, даже испанский язык называют "языком Сервантеса". Его произведение "Дон Кихот" считается первым "современным романом" в истории литературы.</p>
+                <p class="article-text">Сервантес сражался в качестве рядового солдата в битве при Лепанто 7 октября 1571 года. Официальный отчет, написанный восемь лет спустя, гласит: "...... Во время этого морского боя Сервантес был в настолько ужасном состоянии, с высокой температурой, что командир роты и его товарищи сказали ему: ты в плохом состоянии и должен хорошо лежать в помещении парусника. Сервантес обвинил: "О чем вы говорите, я не выполнил свой долг, и вместо того, чтобы бояться, я лучше умру, сражаясь за Бога и короля" ...... Таким образом, он сражался с турками в этой битве вместе со своими товарищами, как и приказал ему командир роты. Когда битва закончилась, генерал Хуан, зная о его храбрости, дал ему четыре дополнительные золотые монеты ...... В бою он был ранен в грудь и руку, и с тех пор его левая рука стала калекой".</p>
             </remark>
             <goto goto="60" clockwise="1"/>
         </scene>
         <scene id="60" background="beachIslandNoName.jpg">
             <bgm src="peerGynt.mp3" status="continue"></bgm>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Cervantes">Well aren't I pretty famous!</speak>
-            <speak chara="_Cervantes">A master of literature! Hahaha, has a nice ring to it, I love it!</speak>
+            <speak chara="_Cervantes">Ну разве я не знаменит?</speak>
+            <speak chara="_Cervantes">Мастер литературы! Хахаха, хорошо звучит, мне нравится!</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaSighClose" position="left"/>
-            <speak chara="_Bianka">And here I thought you were a soldier used to the battlefield... Who could have guessed you could be this smug.</speak>
+            <speak chara="_Bianka">А я-то думала, что ты солдат, привыкший к боевым действиям... Кто бы мог подумать, что ты можешь быть таким самодовольным.</speak>
             <show chara="biankaSighClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Cervantes">Hahahaha! How could I not be happy after hearing that! You should smile too, miss Bianka!</speak>
+            <speak chara="_Cervantes">Хахахаха! Как я могу не радоваться, услышав это! Тебе тоже следует улыбаться, мисс Бьянка!</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Cervantes">It'll make you more motivated once we're out in the sea!</speak>
+            <speak chara="_Cervantes">Это придаст вам больше мотивации, когда мы окажемся в море!</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaSneerClose" position="left"/>
-            <speak chara="_Bianka">Hmph. Your concern is unneeded. There hasn't been a single day I haven't given my everything since I've become a Valkyrie at the age of 10.</speak>
+            <speak chara="_Bianka">Хмф. Ваше беспокойство излишне. Не было ни одного дня, когда я не отдавала бы всю себя с тех пор, как стала Валькирией 2 года назад.</speak>
             <show chara="biankaProudClose" position="left"/>
-            <speak chara="_Bianka">If you teach me how, I'm confident I can learn how to catch fish or steer a ship perfectly.</speak>
+            <speak chara="_Bianka">Если вы научите меня, я уверена, что смогу научиться ловить рыбу или отлично управлять кораблем.</speak>
             <show chara="rita17SmileClose" position="left"/>
-            <speak chara="_Rita">My my. By the way...</speak>
+            <speak chara="_Rita">Боже мой. Кстати...</speak>
             <show chara="rita17SquintClose" position="left"/>
-            <speak chara="_Rita">...Cervantes-san, how should we divide our roles once we sail?</speak>
+            <speak chara="_Rita">...Сервантес-сан, как мы распределим наши роли после отплытия?</speak>
             <show chara="rita17SquintClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Cervantes">Haha, don't be so stiff, miss. You can call me 「Miguel」.</speak>
+            <speak chara="_Cervantes">Хаха, не будьте такой скованной, мисс. Можете называть меня просто Мигель.</speak>
             <show chara="cervantesSmileClose" position="right"/>
             <speak chara="_Miguel">That's easy.</speak>
             <show chara="cervantesNormalClose" position="right"/>
-            <speak chara="_Miguel">I'll be the captain. I'll steer the ship, and judge when we should advance and retreat. As for you two——</speak>
+            <speak chara="_Miguel">Я буду капитаном, буду управлять кораблем и решать, когда мы должны наступать и отступать. Что касается вас двоих...</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">Miss Bianka's specialty was spears, right? The harpoons are all yours.</speak>
-            <speak chara="_Miguel">Miss Rita is a very attentive person, so keep an eye on the anchor rope to make sure it doesn't get tangled.</speak>
+            <speak chara="_Miguel">Мисс Бьянка специализировалась на копьях, верно? Гарпуны будут вашими.</speak>
+            <speak chara="_Miguel">Мисс Рита очень внимательна, поэтому будет следить за якорным канатом, чтобы она не запуталась.</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">Anchor rope? What is it for?</speak>
+            <speak chara="_Bianka">Якорный канат? Для чего он нужен?</speak>
             <show chara="biankaSeriousClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">That will, of course, be used to bring the ship closer to the beast.</speak>
+            <speak chara="_Miguel">Естественно, он будет использован для того, чтобы приблизить корабль к зверю.</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">Can't kill it if we're too far away, right? Also, we need to pick up his body and bring it back to the island for everyone to see. </speak>
+            <speak chara="_Miguel">Мы не сможем убить его, если будем слишком далеко, верно? Кроме того, нам нужно забрать его тело и принести его на остров, чтобы все могли его увидеть.</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
-            <speak chara="_Rita">...What are we supposed to do if the 「Leviathan」 were to attack us? This reed boat is a little...</speak>
+            <speak chara="_Rita">...Что нам делать, если на нас нападет Левиафан? Эта тростниковая лодка маленькая...</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">I'll make use of the currents to not give him the chance to attack us. It's that simple!</speak>
+            <speak chara="_Miguel">Я воспользуюсь течением, чтобы не дать ему возможности напасть на нас Это просто!</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">Oh right, didn't you two show something to the people on the island? A 「gun」 capable of even destroying boulders—— What was it called again...</speak>
+            <speak chara="_Miguel">Ах да, разве вы двое не показывали кое-что людям на острове? "Пушка", способная разрушать даже валуны - еще раз, как она там называлась ...</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">...The all-purpose firing weapon of the previous civilization, 「2nd Relic」. Not a hard name to remember.</speak>
+            <speak chara="_Bianka">...Универсальное огнестрельное оружие предыдущей цивилизации, "Вторая священная реликвия". Несложное для запоминания название.</speak>
             <show chara="biankaSeriousClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">Hahahaha! We old people aren't good with long names.</speak>
+            <speak chara="_Miguel">Хахахаха! Мы, старики, плохо разбираемся в длинных именах.</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">But anyway, we have a weapon stronger than the cannons of the Invincible Armada——</speak>
+            <speak chara="_Miguel">Но в любом случае, у нас есть оружие посильнее пушек Непобедимой Армады——</speak>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">——What we're riding on isn't an unreliable reed boat... but a merciless hunting warship!</speak>
+            <speak chara="_Miguel">——То, на чем мы плывем, - это не ненадежная тростниковая лодка... а безжалостный охотничий военный корабль!</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">Remember this——</speak>
+            <speak chara="_Miguel">Запомните это——</speak>
             <show chara="cervantesGazeClose" position="right"/>
-            <speak chara="_Miguel">「Leviathan」, sea creatures, they're all just mere beasts. The only difference is their size.</speak>
+            <speak chara="_Miguel">"Левиафан", морские существа... - Все они просто звери. Единственная разница - это их размер.</speak>
             <show chara="cervantesGazeClose" position="right" opacity="0.8"/>
             <show chara="biankaSneerClose" position="left"/>
-            <speak chara="_Bianka">——And brave hunters can't possibly be afraid of a prey they're willingly approaching themselves.</speak>
+            <speak chara="_Bianka">——И храбрые охотники не могут бояться добычи, к которой сами охотно приближаются.</speak>
             <show chara="biankaSneerClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">——Yeah, you get it!</speak>
+            <speak chara="_Miguel">——Да, ты поняла!</speak>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">Now! Let's kill him!</speak>
+            <speak chara="_Miguel">Сейчас же! Давайте убьем его!</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaSneerClose" position="left"/>
-            <!-- RENAME: Look closely, old man. This is how a Valkyrie from 「Destiny」 fights! -->
-            <speak chara="_Bianka">Look closely, old man. This is how a Valkyrie from 「Schicksal」 fights!</speak>
+            <speak chara="_Bianka">Смотри внимательно, старик. Вот как сражается Валькирия из "Шиксала"!</speak>
             <show chara="biankaSneerClose" position="left" opacity="0.8"/>
             <show chara="rita17NormalClose" position="right"/>
             <speak chara="_Rita">(....)</speak>
-            <speak chara="_Rita">(How can he say it's a 「mere beast」 with such confidence?)</speak>
+            <speak chara="_Rita">(Как он может с такой уверенностью говорить, что это "просто зверь"?)</speak>
             <goto goto="70" clockwise="1"/>
         </scene>
         <scene id="70" background="seaWaveIslandNoName.jpg">
             <bgm src="seaAndSky.mp3" status="start"></bgm>
             <text article="1">
-                <p class="article-text">They walked around to measure the length of the island and looked at it from the top of many rocky mountains, but now that they are out in the sea, the two Valkyries realize how small the 「harbor」 truly was.</p>
+                <p class="article-text">Они обошли вокруг, чтобы измерить длину острова, и посмотрели на него с вершины многих скалистых гор, но теперь, когда они вышли в море, две Валькирии осознают, насколько на самом деле маленькой была гавань.</p>
             </text>
             <text article="1">
-                <p class="article-text">Even though it's only been a few minutes since the reed boat left the port, the island they were moments ago can't be seen anymore. The 「shelter」 that was large enough to house dozens of people could be covered with the palm of a hand.</p>
+                <p class="article-text">Несмотря на то, что прошло всего несколько минут с тех пор, как тростниковая лодка покинула порт, острова, на котором они были некоторое время назад, больше не видно. "Убежище", которое было достаточно велико, чтобы вместить десятки людей, можно было охватить ладонью.</p>
             </text>
-            <text>The midday sun shines on the surface of the sea. The light reflected is so dazzling it's hard to keep one's eyes open.</text>
-            <text>The old man kept rowing the boat with his long oars, steadily advancing in the undulating waves.</text>
+            <text>Полуденное солнце освещает поверхность моря. Отраженный свет настолько ослепителен, что трудно держать глаза открытыми.</text>
+            <text>Старик продолжал грести лодку своими длинными веслами, уверенно продвигаясь вперед по волнистым волнам.</text>
             <show chara="cervantesGazeClose" position="right"/>
-            <speak chara="_Miguel">Careful. He's coming.</speak>
+            <speak chara="_Miguel">Осторожно. Он идет.</speak>
             <show chara="cervantesGazeClose" position="right" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">...I don't sense anything near us.</speak>
+            <speak chara="_Bianka">...Я не чувствую ничего поблизости.</speak>
             <show chara="biankaSeriousClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">Yeah, but it's almost time.</speak>
+            <speak chara="_Miguel">Да, но время почти пришло.</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
-            <speak chara="_Rita">...Time?</speak>
+            <speak chara="_Rita">...Время?</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="cervantesGazeClose" position="right"/>
-            <speak chara="_Miguel">After the 「Leviathan」 gets a whiff that someone is out in the sea, it takes him approximately 15 minutes to catch up to the ship.</speak>
+            <speak chara="_Miguel">После того как Левиафан учует, что в море кто-то есть, ему потребуется примерно 15 минут, чтобы догнать корабль.</speak>
             <show chara="cervantesGazeClose" position="right" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">I see——</speak>
+            <speak chara="_Bianka">Понятно——</speak>
             <show chara="biankaSneerClose" position="left"/>
-            <speak chara="_Bianka">——So that's why you stopped the ship here!</speak>
+            <speak chara="_Bianka">——Так вот почему вы остановили корабль здесь!</speak>
             <show chara="biankaSneerClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">That's right. The reef 5 meters below the ship protects us from any attack from beneath.</speak>
+            <speak chara="_Miguel">Именно так. Риф в 5 метрах под кораблем защищает нас от любой атаки снизу.</speak>
             <show chara="cervantesGazeClose" position="right"/>
-            <speak chara="_Miguel">After all, we're using ourselves as bait—— Being careless can be fatal.</speak>
-            <speak chara="_Miguel">And the opportunity to strike will only show itself for an instant——</speak>
+            <speak chara="_Miguel">В конце концов, мы используем себя в качестве приманки... Любая оплошность может стать фатальной.</speak>
+            <speak chara="_Miguel">И возможность нанести удар появится лишь на мгновение——</speak>
             <bgm src="noise.mp3" status="start"></bgm>
             <show chara="cervantesShoutClose" position="right"/>
-            <speak chara="_Miguel">——Wait, what's that sound!?</speak>
+            <speak chara="_Miguel">——Подождите, что это за звук!?</speak>
             <show chara="cervantesShoutClose" position="right" opacity="0.8"/>
             <show chara="rita17AngryClose" position="left"/>
-            <speak chara="_Rita">The sound of machinery!?</speak>
+            <speak chara="_Rita">Звук техники!?</speak>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_Bianka">Look! There's something black under the water...!</speak>
+            <speak chara="_Bianka">Смотрите! Там что-то черное под водой...!</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="cervantesGazeClose" position="right"/>
-            <speak chara="_Miguel">Is that... blood?</speak>
+            <speak chara="_Miguel">Это... кровь?</speak>
             <show chara="cervantesShoutClose" position="right"/>
-            <speak chara="_Miguel">Something is fighting the 「Leviathan」 under the sea!</speak>
+            <speak chara="_Miguel">Что-то сражается с Левиафаном под водой!</speak>
             <show chara="cervantesShoutClose" position="right" opacity="0.8"/>
             <show chara="rita17AngryClose" position="left"/>
-            <speak chara="_Rita">——It's coming!</speak>
+            <speak chara="_Rita">——Оно приближается!</speak>
             <goto goto="80" change="0"/>
         </scene>
         <scene id="80" background="CG1.jpg">
             <bgm src="noise.mp3" status="stop"></bgm>
             <sound src="se_spring.mp3"/>
             <cg src="CG1.jpg" bg="CG1.jpg" fadeIn="0" fadeOut="1"></cg>
-            <speak chara="_Bianka">That's...</speak>
-            <speak chara="_Bianka">...A submarine!?</speak>
+            <speak chara="_Bianka">Это...</speak>
+            <speak chara="_Bianka">...Подводная лодка!?</speak>
             <end post="U2FsdGVkX19d+mMVBhzEm6N2HRMF"/>
         </scene>
     </story>
