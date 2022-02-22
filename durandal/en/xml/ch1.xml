@@ -15,8 +15,8 @@
             <speak chara="_mechanicalSound">Прогрев окончен.</speak>
             <speak chara="_mechanicalSound">Текущая кратность симуляции - 0.2.</speak>
             <speak chara="_mechanicalSound">Запуск операции.</speak>
-            <text>Запах масла, звук механизмов и движение бедер девушки служат сигналом о том, что система герметизации воздуха начала регулировать гравитацию.</text>
-            <text>Теперь ее лодыжки и колени поддерживают только 20% ее веса——</text>
+            <text>Запах масла, звук механизмов и движение бёдер девушки служат сигналом того, что система герметизации начала регулировать гравитацию.</text>
+            <text>Теперь её лодыжки и колени поддерживают лишь 20% веса</text>
             <text>Это позволит ей без проблем пробегать десятки километров, не рискуя повредить суставы.</text>
             <text>Вдали встает утреннее солнце.</text>
             <text>Валькирия Дюрандаль начала очередной день тренировок.</text>
@@ -30,7 +30,7 @@
             <show chara="ritaMaidSmileClose" position="left"/>
             <speak chara="_Rita">В таком случае, Бьянка-сама, не позавтракать ли нам?</speak>
             <show chara="ritaMaidSquintClose" position="left"/>
-            <speak chara="_Rita" remark="next">Сегодняшний десерт - свежеиспеченный сыр Милль-фейль.</speak>
+            <speak chara="_Rita" remark="next">Сегодняшний десерт - свежеиспеченный сыр Мильфей.</speak>
             <remark post="U2FsdGVkX18du3l7nMcHK1ORJgIy">
                 <p class="article-text-h">Примечание：</p>
                 <p class="article-text">Французское тесто из мелалеуки (mille-feuille) - это разновидность торта, состоящего из трех слоев безе и двух слоев крема или джема. Его изобретение может быть вдохновлено неаполитанской пиццей.。</p>
@@ -106,7 +106,7 @@
             <speak chara="_RitaNoName">...Естественно, что они боятся мифического морского чудовища "Левиафана".</speak>
             <show chara="rita17NormalClose" position="right" opacity="0.8"/>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_BiankaNoName">Что... Ты хочешь сказать, что для них нормально никогда не покидать этот остров? Нормально, что они продолжают жить, собирая ракушки и ловя крабов?</speak>
+            <speak chara="_BiankaNoName">Что... Ты хочешь сказать, что для них нормально никогда не покидать этот остров? Нормально, что они продолжают жить, собирая ракушки и вылавливая крабов?</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="rita17SquintClose" position="right"/>
             <speak chara="_RitaNoName">Есть такая поговорка: "Лодка должна быть у берега".</speak>
@@ -119,7 +119,7 @@
             <show chara="rita17HesitateClose" position="right"/>
             <speak chara="_RitaNoName">Если такого человека поставить против моря в совершенно незнакомом ему мире... Он не сможет бороться со своими страхами.</speak>
             <show chara="rita17HesitateClose" position="right"/>
-            <speak chara="_RitaNoName">Имя "Левиафан"...</speak>
+            <speak chara="_RitaNoName">Имя Левиафан...</speak>
             <speak chara="_RitaNoName">Заставляет их подсознательно верить, что плыть к морю равносильно тому, чтобы стать врагом самой природы——</speak>
             <speak chara="_RitaNoName">——Другими словами, они думают, что совершают самоубийство.</speak>
             <show chara="rita17SquintClose" position="right"/>
@@ -174,7 +174,7 @@
             <show chara="cervantesNormalClose" position="right"/>
             <speak chara="_MiguelNoName">В любом случае——</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_MiguelNoName">Я слышал, вы двое пытаетесь собрать силы, чтобы победить [Левиафана] и открыть путь к океану.</speak>
+            <speak chara="_MiguelNoName">Я слышал, вы двое пытаетесь собрать силы, чтобы победить Левиафана и открыть путь к океану.</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="left"/>
             <speak chara="_Bianka">Да, все верно.</speak>
@@ -225,7 +225,7 @@
             <show chara="cervantesNormalClose" position="right"/>
             <speak chara="_Miguel">Хм, это могло продлиться и дольше. Похоже, он свил гнездо у побережья и отказывается покидать его.</speak>
             <show chara="cervantesSeriousClose" position="right"/>
-            <speak chara="_Miguel">Хотя в течение первого года после того, как приехал сюда, я ловил много рыбы.</speak>
+            <speak chara="_Miguel">Хотя в течение года после того, как приехал сюда, я ловил много рыбы.</speak>
             <show chara="cervantesSeriousClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
             <speak chara="_Rita">...Вы не видели других людей в море, когда ходили на рыбалку?</speak>
@@ -266,7 +266,7 @@
             <show chara="cervantesSmileClose" position="right"/>
             <speak chara="_Miguel">Вот как всего 200 искателей приключений смогли сразиться с тысячами и завоевать Перу.</speak>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">Битва при Лепанто также была выиграна небольшим числом, и это было не благодаря Галеасам - враг был побежден их инерцией.</speak>
+            <speak chara="_Miguel">Битва при Лепанто также была выиграна небольшим числом, и это было не благодаря Галеасам - враг был побежден собственной инерцией.</speak>
             <speak chara="_Texts">*Галеас - класс военных кораблей, предназначены для сочетания скорости галеры и артиллерии галеона</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
@@ -281,7 +281,7 @@
             <speak chara="_Bianka">Хех, такое отношение заставляет меня думать, что ваши книги плохо продавались.</speak>
             <show chara="biankaSneerClose" position="left" opacity="0.8"/>
             <show chara="cervantesSeriousClose" position="right"/>
-            <speak chara="_Miguel">Хммм... Ты в чем-то права. Я не знаю, стану ли я знаменитым через 400 лет.</speak>
+            <speak chara="_Miguel">Хммм... Ты в чем-то права. Не знаю, стану ли я знаменитым через 400 лет.</speak>
             <show chara="cervantesNormalClose" position="right"/>
             <speak chara="_Miguel">Некоторые из книг, которые я написал, - "Галатея", "Странствия Персилеса и Сихизмунды"——</speak>
             <show chara="cervantesSmileClose" position="right"/>
@@ -304,17 +304,17 @@
             <speak chara="_Cervantes">Мастер литературы! Хахаха, хорошо звучит, мне нравится!</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaSighClose" position="left"/>
-            <speak chara="_Bianka">А я-то думала, что ты солдат, привыкший к боевым действиям... Кто бы мог подумать, что ты можешь быть таким самодовольным.</speak>
+            <speak chara="_Bianka">А я-то думала, что ты солдат, привыкший к боевым действиям... Кто бы мог подумать, что ты окажешься таким самодовольным.</speak>
             <show chara="biankaSighClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
             <speak chara="_Cervantes">Хахахаха! Как я могу не радоваться, услышав это! Тебе тоже следует улыбаться, мисс Бьянка!</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Cervantes">Это придаст вам больше мотивации, когда мы окажемся в море!</speak>
+            <speak chara="_Cervantes">Это придаст тебе больше мотивации, когда мы окажемся в море!</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaSneerClose" position="left"/>
-            <speak chara="_Bianka">Хмф. Ваше беспокойство излишне. Не было ни одного дня, когда я не отдавала бы всю себя с тех пор, как стала Валькирией 2 года назад.</speak>
+            <speak chara="_Bianka">Хмф. Ваше беспокойство излишне. Не было ни дня, когда бы я не отдавала всю себя, с тех пор, как стала валькирией два года назад</speak>
             <show chara="biankaProudClose" position="left"/>
-            <speak chara="_Bianka">Если вы научите меня, я уверена, что смогу научиться ловить рыбу или отлично управлять кораблем.</speak>
+            <speak chara="_Bianka">Если вы покажете мне, как, я уверена, что смогу научиться ловить рыбу и отлично управлять кораблем.</speak>
             <show chara="rita17SmileClose" position="left"/>
             <speak chara="_Rita">Боже мой. Кстати...</speak>
             <show chara="rita17SquintClose" position="left"/>
@@ -328,7 +328,7 @@
             <speak chara="_Miguel">Я буду капитаном, буду управлять кораблем и решать, когда мы должны наступать и отступать. Что касается вас двоих...</speak>
             <show chara="cervantesSmileClose" position="right"/>
             <speak chara="_Miguel">Мисс Бьянка специализировалась на копьях, верно? Гарпуны будут вашими.</speak>
-            <speak chara="_Miguel">Мисс Рита очень внимательна, поэтому будет следить за якорным канатом, чтобы она не запуталась.</speak>
+            <speak chara="_Miguel">Мисс Рита очень внимательна, поэтому будет следить за якорным канатом, чтобы тот не запутался.</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="left"/>
             <speak chara="_Bianka">Якорный канат? Для чего он нужен?</speak>
@@ -336,13 +336,13 @@
             <show chara="cervantesLaughClose" position="right"/>
             <speak chara="_Miguel">Естественно, он будет использован для того, чтобы приблизить корабль к зверю.</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">Мы не сможем убить его, если будем слишком далеко, верно? Кроме того, нам нужно забрать его тело и принести его на остров, чтобы все могли его увидеть.</speak>
+            <speak chara="_Miguel">Мы не сможем убить его, если будем слишком далеко, верно? Кроме того, нам нужно забрать тело и принести на остров, чтобы все могли его увидеть</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
             <speak chara="_Rita">...Что нам делать, если на нас нападет Левиафан? Эта тростниковая лодка маленькая...</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">Я воспользуюсь течением, чтобы не дать ему возможности напасть на нас!</speak>
+            <speak chara="_Miguel">Я воспользуюсь течением, чтобы не дать ему такой возможности!</speak>
             <show chara="cervantesSmileClose" position="right"/>
             <speak chara="_Miguel">Ах да, разве вы двое не показывали кое-что людям на острове? "Пушка", способная разрушать даже валуны - еще раз, как она там называлась ...</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
@@ -358,7 +358,7 @@
             <show chara="cervantesSmileClose" position="right"/>
             <speak chara="_Miguel">Запомните это——</speak>
             <show chara="cervantesGazeClose" position="right"/>
-            <speak chara="_Miguel">"Левиафан", морские существа... - Все они просто звери. Единственная разница - это их размер.</speak>
+            <speak chara="_Miguel">Левиафан, морские существа... - Все они просто звери. Единственная разница - это их размер.</speak>
             <show chara="cervantesGazeClose" position="right" opacity="0.8"/>
             <show chara="biankaSneerClose" position="left"/>
             <speak chara="_Bianka">——И храбрые охотники не могут бояться добычи, к которой сами охотно приближаются.</speak>
@@ -369,7 +369,7 @@
             <speak chara="_Miguel">Сейчас же! Давайте убьем его!</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaSneerClose" position="left"/>
-            <speak chara="_Bianka">Смотри внимательно, старик. Вот как сражается Валькирия из "Шиксала"!</speak>
+            <speak chara="_Bianka">Смотри внимательно, старик. Вот как сражается Валькирия "Шиксала"!</speak>
             <show chara="biankaSneerClose" position="left" opacity="0.8"/>
             <show chara="rita17NormalClose" position="right"/>
             <speak chara="_Rita">(....)</speak>
@@ -379,13 +379,13 @@
         <scene id="70" background="seaWaveIslandNoName.jpg">
             <bgm src="seaAndSky.mp3" status="start"></bgm>
             <text article="1">
-                <p class="article-text">Они обошли вокруг, чтобы измерить длину острова, и посмотрели на него с вершины многих скалистых гор, но теперь, когда они вышли в море, две Валькирии осознают, насколько на самом деле маленькой была гавань.</p>
+                <p class="article-text">Они обошли вокруг, чтобы измерить длину острова, и посмотрели на него с вершины многих скалистых гор, но теперь, когда они вышли в море, две Валькирии осознали, насколько на самом деле маленькой была гавань.</p>
             </text>
             <text article="1">
-                <p class="article-text">Несмотря на то, что прошло всего несколько минут с тех пор, как тростниковая лодка покинула порт, острова, на котором они были некоторое время назад, больше не видно. "Убежище", которое было достаточно велико, чтобы вместить десятки людей, можно было охватить ладонью.</p>
+                <p class="article-text">Несмотря на то, что прошло всего несколько минут с тех пор, как тростниковая лодка покинула порт, острова, на котором они были некоторое время назад, больше не видно. Убежище, достаточно великое, чтобы вместить десятки людей, можно было охватить ладонью</p>
             </text>
             <text>Полуденное солнце освещает поверхность моря. Отраженный свет настолько ослепителен, что трудно держать глаза открытыми.</text>
-            <text>Старик продолжал грести лодку своими длинными веслами, уверенно продвигаясь вперед по волнистым волнам.</text>
+            <text>Старик продолжал грести лодку своими длинными веслами, уверенно продвигаясь вперед по волнистому морю.</text>
             <show chara="cervantesGazeClose" position="right"/>
             <speak chara="_Miguel">Осторожно. Он приближается.</speak>
             <show chara="cervantesGazeClose" position="right" opacity="0.8"/>
