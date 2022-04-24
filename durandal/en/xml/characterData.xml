@@ -42,15 +42,15 @@
         <character name="Portia (Rita)" color="#ddcab3" id="DressPortiaSneer" src="DressPortiaSneer.png"/>
         <character name="Portia (Rita)" color="#ddcab3" id="DressPortiaAngry" src="DressPortiaAngry.png"/>
         <character name="Portia (Rita)" color="#ddcab3" id="DressPortiaSerious" src="DressPortiaSerious.png"/>
-        <character name="Girl" color="#ddcab3" id="_RitaChildNoName" src=""/>
-        <character name="Girl" color="#ddcab3" id="ritaChildShyClose" src="08_03_ritaChildShyClose.png"/>
-        <character name="Girl" color="#ddcab3" id="ritaChildShyMoreClose" src="08_03_ritaChildShyMoreClose.png"/>
-        <character name="Girl" color="#ddcab3" id="ritaChildAwkwardClose" src="08_03_ritaChildAwkwardClose.png"/>
-        <character name="Girl" color="#ddcab3" id="ritaChildFunClose" src="08_03_ritaChildFunClose.png"/>
-        <character name="Girl" color="#ddcab3" id="ritaChildSeriousClose" src="08_03_ritaChildSeriousClose.png"/>
-        <character name="Girl" color="#ddcab3" id="ritaChildPuzzledClose" src="08_03_ritaChildPuzzledClose.png"/>
-        <character name="Girl" color="#ddcab3" id="ritaChildNormalClose" src="08_03_ritaChildNormalClose.png"/>
-        <character name="Girl" color="#ddcab3" id="ritaChildExcitingClose" src="08_03_ritaChildExcitingClose.png"/>
+        <character name="Девочка" color="#ddcab3" id="_RitaChildNoName" src=""/>
+        <character name="Девочка" color="#ddcab3" id="ritaChildShyClose" src="08_03_ritaChildShyClose.png"/>
+        <character name="Девочка" color="#ddcab3" id="ritaChildShyMoreClose" src="08_03_ritaChildShyMoreClose.png"/>
+        <character name="Девочка" color="#ddcab3" id="ritaChildAwkwardClose" src="08_03_ritaChildAwkwardClose.png"/>
+        <character name="Девочка" color="#ddcab3" id="ritaChildFunClose" src="08_03_ritaChildFunClose.png"/>
+        <character name="Девочка" color="#ddcab3" id="ritaChildSeriousClose" src="08_03_ritaChildSeriousClose.png"/>
+        <character name="Девочка" color="#ddcab3" id="ritaChildPuzzledClose" src="08_03_ritaChildPuzzledClose.png"/>
+        <character name="Девочка" color="#ddcab3" id="ritaChildNormalClose" src="08_03_ritaChildNormalClose.png"/>
+        <character name="Девочка" color="#ddcab3" id="ritaChildExcitingClose" src="08_03_ritaChildExcitingClose.png"/>
         <character name="Рита" color="#ddcab3" id="ritaMaidSmileClose" src="ritaMaidSmileClose.png"/>
         <character name="Рита" color="#ddcab3" id="ritaMaidSquintClose" src="ritaMaidSquintClose.png"/>
         <character name="Рита" color="#ddcab3" id="ritaMaidNaughtyClose" src="ritaMaidNaughtyClose.png"/>
@@ -146,6 +146,7 @@
         <character name="Старик" color="#d0c8c4" id="_MiguelNoName" src=""/>
         <character name="Мигель" color="#d0c8c4" id="_Miguel" src=""/>
         <character name="Подсказка" color="#dc143c" id="_Texts" src=""/>
+        <character name="Неко-горничная Делисс" color="#dc9614" id="_Donate" src=""/>
         <character name="Сервантес" color="#d0c8c4" id="_Cervantes" src=""/>
         <character name="Duke" color="#d0c8c4" id="_CervantesVenice" src=""/>
         <character name="Duke (Miguel)" color="#d0c8c4" id="_CervantesVeniceSelf" src=""/>
@@ -169,8 +170,8 @@
         <character name="Мигель" color="#d0c8c4" id="cervantesSailorNormalClose" src="05_16_cervantesSailorNormalClose.png"/>
         <character name="Мигель" color="#d0c8c4" id="cervantesSailorStareClose" src="05_16_cervantesSailorStareClose.png"/>
         <character name="Мигель" color="#d0c8c4" id="cervantesSailorUnhappyClose" src="05_31_cervantesSailorUnhappyClose.png"/>
-        <character name="Kid" color="#93ae75" id="_WattNoName" src=""/>
-        <character name="Jimmy" color="#93ae75" id="_Watt" src=""/>
+        <character name="Ребенок" color="#93ae75" id="_WattNoName" src=""/>
+        <character name="Джимми" color="#93ae75" id="_Watt" src=""/>
         <character name="Gratiano" color="#93ae75" id="_WattVenice" src=""/>
         <character name="Gratiano (Jimmy)" color="#93ae75" id="_WattVeniceSelf" src=""/>
         <character name="Gratiano (Jimmy)" color="#93ae75" id="GratianoAngry" src="GratianoAngry.png"/>
@@ -180,25 +181,25 @@
         <character name="Gratiano (Jimmy)" color="#93ae75" id="GratianoNervous" src="GratianoNervous.png"/>
         <character name="Gratiano (Jimmy)" color="#93ae75" id="GratianoExcited" src="GratianoExcited.png"/>
         <character name="Gratiano (Jimmy)" color="#93ae75" id="GratianoNormal" src="GratianoNormal.png"/>
-        <character name="Jimmy" color="#93ae75" id="wattShyClose" src="11_15_wattShyClose.png"/>
-        <character name="Jimmy" color="#93ae75" id="wattScaredClose" src="11_15_wattScaredClose.png"/>
-        <character name="Jimmy" color="#93ae75" id="wattSighClose" src="11_15_wattSighClose.png"/>
-        <character name="Jimmy" color="#93ae75" id="wattSurpriseClose" src="11_15_wattSurpriseClose.png"/>
-        <character name="Jimmy" color="#93ae75" id="wattRelievedClose" src="12_13_wattRelievedClose.png"/>
-        <character name="Jimmy" color="#93ae75" id="wattInspiredClose" src="12_28_wattInspiredClose.png"/>
-        <character name="Jimmy" color="#93ae75" id="wattSmileClose" src="12_28_wattSmileClose.png"/>
-        <character name="Jimmy" color="#93ae75" id="wattSchemingClose" src="12_28_wattSchemingClose.png"/>
-        <character name="Jimmy" color="#93ae75" id="wattJihuatongClose" src="12_28_wattJihuatongClose.png"/>
-        <character name="Jimmy" color="#93ae75" id="wattSadClose" src="02_02_wattSadClose.png"/>
-        <character name="Lalla" color="#bc7db4" id="_Lalla" src=""/>
-        <character name="Lalla" color="#bc7db4" id="lallaSighClose" src="11_15_lallaSighClose.png"/>
-        <character name="Lalla" color="#bc7db4" id="lallaNormalClose" src="11_15_lallaNormalClose.png"/>
-        <character name="Lalla" color="#bc7db4" id="lallaSmileClose" src="11_15_lallaSmileClose.png"/>
-        <character name="Lalla" color="#bc7db4" id="lallaQuestionClose" src="11_15_lallaQuestionClose.png"/>
-        <character name="Lalla" color="#bc7db4" id="lallaSeriousClose" src="11_29_lallaSeriousClose.png"/>
-        <character name="Red-haired Woman" color="#d25242" id="_ShakespeareNoName" src=""/>
-        <character name="“Barbarossa”" color="#d25242" id="_ShakespeareBarbarossa" src=""/>
-        <character name="Shakespeare" color="#d25242" id="_Shakespeare" src=""/>
+        <character name="Джимми" color="#93ae75" id="wattShyClose" src="11_15_wattShyClose.png"/>
+        <character name="Джимми" color="#93ae75" id="wattScaredClose" src="11_15_wattScaredClose.png"/>
+        <character name="Джимми" color="#93ae75" id="wattSighClose" src="11_15_wattSighClose.png"/>
+        <character name="Джимми" color="#93ae75" id="wattSurpriseClose" src="11_15_wattSurpriseClose.png"/>
+        <character name="Джимми" color="#93ae75" id="wattRelievedClose" src="12_13_wattRelievedClose.png"/>
+        <character name="Джимми" color="#93ae75" id="wattInspiredClose" src="12_28_wattInspiredClose.png"/>
+        <character name="Джимми" color="#93ae75" id="wattSmileClose" src="12_28_wattSmileClose.png"/>
+        <character name="Джимми" color="#93ae75" id="wattSchemingClose" src="12_28_wattSchemingClose.png"/>
+        <character name="Джимми" color="#93ae75" id="wattJihuatongClose" src="12_28_wattJihuatongClose.png"/>
+        <character name="Джимми" color="#93ae75" id="wattSadClose" src="02_02_wattSadClose.png"/>
+        <character name="Лалла" color="#bc7db4" id="_Lalla" src=""/>
+        <character name="Лалла" color="#bc7db4" id="lallaSighClose" src="11_15_lallaSighClose.png"/>
+        <character name="Лалла" color="#bc7db4" id="lallaNormalClose" src="11_15_lallaNormalClose.png"/>
+        <character name="Лалла" color="#bc7db4" id="lallaSmileClose" src="11_15_lallaSmileClose.png"/>
+        <character name="Лалла" color="#bc7db4" id="lallaQuestionClose" src="11_15_lallaQuestionClose.png"/>
+        <character name="Лалла" color="#bc7db4" id="lallaSeriousClose" src="11_29_lallaSeriousClose.png"/>
+        <character name="Красноволосая Женщина" color="#d25242" id="_ShakespeareNoName" src=""/>
+        <character name="“Барбаросса”" color="#d25242" id="_ShakespeareBarbarossa" src=""/>
+        <character name="Шекспир" color="#d25242" id="_Shakespeare" src=""/>
         <character name="??? (Shakespeare)" color="#d25242" id="_ShakespeareVeniceNoName" src=""/>
         <character name="Shylock" color="#d25242" id="_ShakespeareVeniceFather" src=""/>
         <character name="Jessica" color="#d25242" id="_ShakespeareVeniceDaughter" src=""/>
@@ -256,12 +257,12 @@
         <character name="Shakespeare" color="#d25242" id="shakesCasualSeriousClose" src="05_16_shakesCasualSeriousClose.png"/>
         <character name="Shakespeare" color="#d25242" id="shakesCasualQuestionClose-up" src="05_31_shakesCasualQuestionClose-up.png"/>
         <character name="Shakespeare" color="#d25242" id="shakesCasualDislikeClose-up" src="05_31_shakesCasualDislikeClose-up.png"/>
-        <character name="“Iron Mask”" color="#8a58f0" id="_Ironface" src=""/>
+        <character name="“Железная Маска”" color="#8a58f0" id="_Ironface" src=""/>
         <character name="Iron Mask (Radio)" color="#8a58f0" id="_IronfaceRadio" src=""/>
-        <character name="“Iron Mask”" color="#8a58f0" id="ironWhiteClose" src="11_15_ironWhiteClose.png"/>
-        <character name="“Iron Mask”" color="#8a58f0" id="ironBlueClose" src="11_15_ironBlueClose.png"/>
-        <character name="“Iron Mask”" color="#8a58f0" id="ironRedClose" src="11_15_ironRedClose.png"/>
-        <character name="“Iron Mask”" color="#8a58f0" id="ironWhiteSwordFar" src="02_22_ironWhiteSwordFar.png"/>
+        <character name="“Железная Маска”" color="#8a58f0" id="ironWhiteClose" src="11_15_ironWhiteClose.png"/>
+        <character name="“Железная Маска”" color="#8a58f0" id="ironBlueClose" src="11_15_ironBlueClose.png"/>
+        <character name="“Железная Маска”" color="#8a58f0" id="ironRedClose" src="11_15_ironRedClose.png"/>
+        <character name="“Железная Маска”" color="#8a58f0" id="ironWhiteSwordFar" src="02_22_ironWhiteSwordFar.png"/>
         <character name="???" color="#8a58f0" id="_SchrodingerNoName" src=""/>
         <character name="Schrodinger" color="#8a58f0" id="_Schrodinger" src=""/>
         <character name="Schrodinger" color="#8a58f0" id="schroNoSwordTalkClose" src="12_21_schroNoSwordTalkClose.png"/>
@@ -282,18 +283,18 @@
         <!-- RENAME: Bishop of Destiny -->
         <character name="Overseer of Schicksal" color="#fff7cd" id="_Otto" src=""/>
         <!-- RENAME: Bishop Otto -->
-        <character name="Overseer Otto" color="#fff7cd" id="_OttoPapa" src=""/>
-        <character name="Doctor Otto" color="#fff7cd" id="_OttoDr" src=""/>
-        <character name="Otto" color="#fff7cd" id="ottoSuitsKindFar" src="11_15_ottoSuitsKindFar.png"/>
-        <character name="Otto" color="#fff7cd" id="ottoSuitsFun" src="08_03_ottoSuitsFun.png"/>
-        <character name="Otto" color="#fff7cd" id="ottoSuitsSad" src="08_03_ottoSuitsSad.png"/>
-        <character name="Otto" color="#fff7cd" id="ottoSuitsConfident" src="08_03_ottoSuitsConfident.png"/>
-        <character name="Otto" color="#fff7cd" id="ottoDrTrickyClose" src="11_22_ottoDrTrickyClose.png"/>
-        <character name="Otto" color="#fff7cd" id="ottoDrNormalClose" src="11_22_ottoDrNormalClose.png"/>
-        <character name="Otto" color="#fff7cd" id="ottoDrFoolishSmileClose" src="11_22_ottoDrFoolishSmileClose.png"/>
-        <character name="Otto" color="#fff7cd" id="ottoDrKindClose" src="11_22_ottoDrKindClose.png"/>
-        <character name="Otto" color="#fff7cd" id="ottoDrColdClose" src="11_22_ottoDrColdClose.png"/>
-        <character name="Otto" color="#fff7cd" id="ottoDrTalkClose" src="11_22_ottoDrTalkClose.png"/>
+        <character name="Епископ Отто" color="#fff7cd" id="_OttoPapa" src=""/>
+        <character name="Доктор Отто" color="#fff7cd" id="_OttoDr" src=""/>
+        <character name="Отто" color="#fff7cd" id="ottoSuitsKindFar" src="11_15_ottoSuitsKindFar.png"/>
+        <character name="Отто" color="#fff7cd" id="ottoSuitsFun" src="08_03_ottoSuitsFun.png"/>
+        <character name="Отто" color="#fff7cd" id="ottoSuitsSad" src="08_03_ottoSuitsSad.png"/>
+        <character name="Отто" color="#fff7cd" id="ottoSuitsConfident" src="08_03_ottoSuitsConfident.png"/>
+        <character name="Отто" color="#fff7cd" id="ottoDrTrickyClose" src="11_22_ottoDrTrickyClose.png"/>
+        <character name="Отто" color="#fff7cd" id="ottoDrNormalClose" src="11_22_ottoDrNormalClose.png"/>
+        <character name="Отто" color="#fff7cd" id="ottoDrFoolishSmileClose" src="11_22_ottoDrFoolishSmileClose.png"/>
+        <character name="Отто" color="#fff7cd" id="ottoDrKindClose" src="11_22_ottoDrKindClose.png"/>
+        <character name="Отто" color="#fff7cd" id="ottoDrColdClose" src="11_22_ottoDrColdClose.png"/>
+        <character name="Отто" color="#fff7cd" id="ottoDrTalkClose" src="11_22_ottoDrTalkClose.png"/>
         <character name="Man" color="#ccc8b5" id="_ManfredNoName" src=""/>
         <character name="Manfred" color="#ccc8b5" id="_Manfred" src=""/>
         <character name="??? (Manfred)" color="#ccc8b5" id="_ManfredVeniceNoName" src=""/>
@@ -516,9 +517,9 @@
         <character name="Eikenal" color="#f6deb8" id="WitchShyClose-up" src="05_16_WitchShyClose-up.png"/>
         <character name="Eikenal" color="#f6deb8" id="WitchSadClose-up" src="05_16_WitchSadClose-up.png"/>
         <character name="穿着华丽的少女" color="#f6deb8" id="WitchSeriousClose" src="05_16_WitchSeriousClose.png"/>
-        <character name="Mysterious Blonde Girl" color="#ffffff" id="_BiankaOutsiderNoName" src=""/>
-        <character name="Mysterious Red-Haired Woman" color="#d25242" id="_ShakespeareOutsiderNoName" src=""/>
-        <character name="Mysterious Interpreter Maid" color="#ddcab3" id="_RitaOutsiderNoName" src=""/>
+        <character name="Таинственная Блондинка" color="#ffffff" id="_BiankaOutsiderNoName" src=""/>
+        <character name="Таинственная Рыжеволосая Женщина" color="#d25242" id="_ShakespeareOutsiderNoName" src=""/>
+        <character name="Таинственная Горничная-переводчик" color="#ddcab3" id="_RitaOutsiderNoName" src=""/>
         <character name="Officer" color="#c2b5ff" id="_Officer2PNoNameShort" src=""/>
         <character name="Cauac" color="#c2b5ff" id="_Officer2P" src=""/>
         <character name="Cauac" color="#c2b5ff" id="Officer2PClose" src="05_31_Officer2PClose.png"/>
