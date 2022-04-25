@@ -12,7 +12,7 @@
             <text>Все события в нем мимолетны, независимо от происходящего—</text>
             <text>Только его волнам и пузырям позволено быть вечными, поглощая все в одиночество.</text>
             <text article="1">
-                <p class="article-text">Появившаяся из ниоткуда таинственная подводная лодка теперь спокойно плавает на поверхности моря после того, как утопила троих людей в тростниковой лодке.</p>
+                <p class="article-text">Появившееся из ниоткуда таинственное подводное судно теперь спокойно плавает на поверхности моря после того, как утопила троих людей в тростниковой лодке.</p>
                 <p class="article-text">Лишь крики бедного Левиафана были слышны под голубым небом.</p>
             </text>
             <speak chara="_Rita">Вы в порядке, Бьянка-сама?</speak>
@@ -42,7 +42,7 @@
         </scene>
         <scene id="20" background="CG2-1-1.jpg">
             <bgm src="seaAndSky.mp3" status="continue"></bgm>
-            <speak chara="_Bianka">Не волнуйся, старик! Кем бы они не были, мы сделаем что-нибудь с ними!</speak>
+            <speak chara="_Bianka">Не волнуйся, старик! Кем бы они не были, мы сделаем с ними что-нибудь!</speak>
             <goto goto="30" change="0"/>
         </scene>
         <scene id="30" background="CG2-1-2.jpg">
@@ -69,7 +69,7 @@
             <bgm src="theme.mp3" status="start"></bgm>
             <text>Стальная субмарина с пиратским флагом спустила на воду 4 лодки.</text>
             <text>Три из них окружили Левиафана и разделывали его.</text>
-            <text>Оставшаяся плыла прямо к тростниковой лодке, на которой плыли трое человек.</text>
+            <text>Оставшаяся плыла прямо к тростниковой лодке, на которой были трое человек.</text>
             <text>Если что-то и дало им понять, что посетители не были "обычными" пиратами, так это-</text>
             <text>——то, что парень, стоящий во главе, выглядел таким нервным, будто он и не пират вовсе.</text>
             <show chara="wattShyClose" position="left"/>
@@ -155,7 +155,7 @@
             <show chara="lallaSighClose" position="right"/>
             <speak chara="_Lalla">Но не стоит так волноваться——</speak>
             <show chara="lallaSmileClose" position="right"/>
-            <speak chara="_Lalla">Капитан сам придет позже чтобы ответить на вопросы, я не могу заставить его придти.</speak>
+            <speak chara="_Lalla">Капитан сам придет позже чтобы ответить на вопросы, я не могу заставить его прибыть.</speak>
             <show chara="lallaSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
             <speak chara="_Bianka">...</speak>
@@ -210,7 +210,7 @@
             <speak chara="_Shakespeare">Как вдруг, из водоворота с грохотом вынырнул огромный стальной монстр——</speak>
             <show chara="shakesDisgustedClose" position="right"/>
             <speak chara="_Shakespeare">Внутри он был пуст, даже бортовой журнал был неполон.</speak>
-            <speak chara="_Shakespeare">...Для меня, история Капитана Немо и его Наутилуса - это странный сюжет без начала и конца.</speak>
+            <speak chara="_Shakespeare">...Для меня история Капитана Немо и его Наутилуса - это странный сюжет без начала и конца.</speak>
             <show chara="shakesDisgustedClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
             <speak chara="_Bianka">...Ты шутишь?</speak>
@@ -226,7 +226,7 @@
             <speak chara="_Bianka">...Этот странный мир, кажется, совершенно лишен порядка?</speak>
             <show chara="biankaSighClose" position="left" opacity="0.8"/>
             <show chara="shakesConfidentClose" position="right"/>
-            <speak chara="_Shakespeare">Ого, похоже, наш маленький "рыцарь" беспокоится о порядке.</speak>
+            <speak chara="_Shakespeare">Ого, похоже, наш маленький рыцарь беспокоится о порядке.</speak>
             <show chara="shakesSmileClose" position="right"/>
             <speak chara="_Shakespeare">...точно. Почему бы нам не последовать этикету и не представиться должным образом?</speak>
             <show chara="shakesSmileClose" position="right" opacity="0.8"/>
@@ -281,12 +281,12 @@
             <show chara="biankaAngryClose" position="left"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">Поняла. Не важно что за Железная Маска—</speak>
+            <speak chara="_Bianka">Поняла. Неважно что за Железная Маска—</speak>
             <show chara="biankaConfidentClose" position="left"/>
             <speak chara="_Bianka">——Раз уж вы представились, то, полагаю, теперь наша очередь рассказать о себе.</speak>
             <show chara="biankaProudClose" position="left"/>
             <show chara="rita17SquintClose" position="right" opacity="0.8"/>
-            <speak chara="_Bianka">Я Бьянка Атаегина, а она мой адъютант Рита Россвайс. Мы - валькирии, пришедшие сюда по приказу Шиксала для исследования этого мира.</speak>
+            <speak chara="_Bianka">Я Бьянка Атаегина, а она —— мой адъютант Рита Россвайс. Мы - валькирии, пришедшие сюда по приказу Шиксала для исследования этого мира.</speak>
             <show chara="biankaProudClose" position="left" opacity="0.8"/>
             <show chara="wattSurpriseClose" position="right"/>
             <speak chara="_Watt">.....?</speak>
@@ -334,9 +334,9 @@
             <speak chara="_Shakespeare">Ну... почти как  волшебные миры.</speak>
             <show chara="shakesColdClose" position="right"/>
             <speak chara="_Shakespeare">В частности, миры, затронутые Хонкаем, постоянно страдают от монстров и бедствий——</speak>
-            <speak chara="_Shakespeare">——Перед лицом этих страданий, первыми, кто оказал сопротивление, оказалась организация под названием "Шиксал".</speak>
+            <speak chara="_Shakespeare">——Перед лицом этих страданий, первой, кто оказал сопротивление, оказалась организация под названием "Шиксал".</speak>
             <speak chara="_Shakespeare">В наших мирах нет никого, кому был бы известен Шиксал.</speak>
-            <speak chara="_Shakespeare">Для сражений с монстрами, Шиксал выбирает женщин с потенциалом и превращает их в воинов, которых называют "Валькириями"</speak>
+            <speak chara="_Shakespeare">Для сражений с монстрами Шиксал выбирает женщин с потенциалом и превращает их в воинов, которых называют "Валькириями"</speak>
             <speak chara="_Shakespeare">Эти Валькирии имеют высокую сопротивляемость к Эрозии Хонкая, и, в свою очередь, используют её для борьбы за человечество.</speak>
             <show chara="shakesSmileClose" position="right"/>
             <speak chara="_Shakespeare">——Самопровозглашенные Валькирии, в вашем мире это правда?</speak>
@@ -359,17 +359,17 @@
             <show chara="shakesSmileClose" position="right"/>
             <speak chara="_Shakespeare">Да. Совет простой, но чрезвычайно важный.</speak>
             <show chara="shakesConfidentClose" position="right"/>
-            <speak chara="_Shakespeare">Короче—— Если хотите выжить в этом мире, то должны экономить боеприпасы на будущее.</speak>
+            <speak chara="_Shakespeare">Короче, если хотите выжить в этом мире, то должны экономить боеприпасы на будущее.</speak>
             <show chara="shakesConfidentClose" position="right" opacity="0.8"/>
             <show chara="biankaAngryClose" position="left"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaAngryClose" position="left" opacity="0.8"/>
             <show chara="shakesColdClose" position="right"/>
-            <speak chara="_Shakespeare">Я не имею ввиду, что вы не сможете их пополнять, просто скорость пополнения будет раз в 100 медленнне, чем обычно.</speak>
+            <speak chara="_Shakespeare">Я не имею в виду, что вы не сможете их пополнять, просто скорость пополнения будет раз в сотню медленнне, чем обычно.</speak>
             <show chara="shakesConfidentClose" position="right"/>
-            <speak chara="_Shakespeare">Наша Каледония, даже после масштабной модификации, может нести лишь 6 торпед </speak>
+            <speak chara="_Shakespeare">Наша Каледония даже после масштабной модификации может нести лишь 6 торпед </speak>
             <show chara="shakesSmileClose" position="right"/>
-            <speak chara="_Shakespeare">...или же, ваши тренировки сделали так, что вы ни на что не способны без Хонкая?</speak>
+            <speak chara="_Shakespeare">...или же ваши тренировки сделали так, что вы ни на что не способны без Хонкая?</speak>
             <show chara="shakesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaShoutClose" position="left"/>
             <speak chara="_Bianka">Не смотри на меня свысока!</speak>
@@ -391,7 +391,7 @@
             <speak chara="_Ironface">——Но за премию от Капитана в этом месяце... я бы мог подумать.</speak>
             <show chara="ironBlueClose" position="left" opacity="0.8"/>
             <show chara="biankaShoutClose" position="right"/>
-            <speak chara="_Bianka">А, ты наёмник что-ли?</speak>
+            <speak chara="_Bianka">А, ты наёмник что ли?</speak>
             <show chara="shakesLaughClose" position="right"/>
             <speak chara="_Shakespeare">Ахахахаха!</speak>
             <show chara="shakesSmileClose" position="right"/>
@@ -407,16 +407,16 @@
             <speak chara="_Bianka">?</speak>
             <show chara="biankaSeriousClose" position="back" opacity="0.8"/>
             <show chara="rita17NaughtyClose" position="left"/>
-            <speak chara="_Rita">Если Шекспир-сан отправляет своего адътанта на соревнование——</speak>
+            <speak chara="_Rita">Если Шекспир-сан отправляет своего адъютанта на соревнование——</speak>
             <show chara="rita17SquintClose" position="left"/>
             <speak chara="_Rita">——Тогда, я, как адъютант, надеюсь, что смогу пойти вместо Бьянки-сама.</speak>
             <show chara="rita17NaughtyClose" position="left"/>
-            <speak chara="_Rita">Как никак, в этом заключается правильная конкуренция, не так ли?</speak>
+            <speak chara="_Rita">Как-никак, в этом заключается правильная конкуренция, не так ли?</speak>
             <show chara="rita17NaughtyClose" position="left" opacity="0.8"/>
             <show chara="shakesLaughClose" position="right"/>
             <speak chara="_Shakespeare">Хахаха! Интересно!</speak>
             <show chara="shakesSmileClose" position="right"/>
-            <speak chara="_Shakespeare">...Тогда, давайте так.</speak>
+            <speak chara="_Shakespeare">...Тогда давайте так.</speak>
             <show chara="shakesConfidentClose" position="right"/>
             <speak chara="_Shakespeare">Бьянка со мной, а Рита с Железной Маской——</speak>
             <speak chara="_Shakespeare">——Каждый сражается с соответствующим противником, возражения?</speak>
@@ -432,9 +432,9 @@
             <show chara="shakesConfidentClose" position="right"/>
             <speak chara="_Shakespeare">Нет-нет-нет, вы и правда потрясающие воины.</speak>
             <show chara="shakesColdClose" position="right"/>
-            <speak chara="_Shakespeare">Продержаться так долго, при условии что сражаетесь используя незнакомое вам оружие и приемы. Достойно уважения.</speak>
+            <speak chara="_Shakespeare">Продержаться так долго, при условии что сражаетесь, используя незнакомое вам оружие и приемы. Достойно уважения.</speak>
             <show chara="ironBlueClose" position="right"/>
-            <speak chara="_Ironface">...Если продолжите тренироваться, то в будущем сможете превзойти даже нас в бою.</speak>
+            <speak chara="_Ironface">...Если продолжите тренироваться, то в будущем сможете превзойти в бою даже нас.</speak>
             <show chara="shakesSmileClose" position="right"/>
             <speak chara="_Shakespeare">Теперь, когда вы дали выход своим эмоциям——</speak>
             <show chara="shakesConfidentClose" position="right"/>
@@ -472,12 +472,12 @@
             <show chara="cervantesNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaAngryClose" position="left"/>
             <speak chara="_Bianka">Ты можешь остаться.</speak>
-            <speak chara="_Bianka">Дедуль, ты был очень добр к нам... так что не думай что ты посторонний.</speak>
+            <speak chara="_Bianka">Дедуль, ты был очень добр к нам... так что не думай, что ты посторонний.</speak>
             <show chara="biankaProudClose" position="left"/>
             <speak chara="_Bianka">Вернемся к делу——</speak>
             <speak chara="_Bianka">Рита, объясни им всем.</speak>
             <show chara="biankaConfidentClose" position="left"/>
-            <speak chara="_Bianka">О том, какова цель нашей экспедиции.</speak>
+            <speak chara="_Bianka">Какова цель нашей экспедиции.</speak>
             <show chara="biankaConfidentClose" position="left" opacity="0.8"/>
             <show chara="rita17SmileClose" position="right"/>
             <speak chara="_Rita">...Хорошо, Бьянка-сама.</speak>
@@ -490,9 +490,11 @@
             <bgm src="11_16_themeOtto.mp3" status="continue"></bgm>
             <show chara="ottoSuitsKindFar" position="back"/>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
-            <speak chara="_Otto">Простыми словами, ваша задача состоит в том, чтобы отслеживать состояние измерения, называемого "Морем Кванта", а также исследовать структуру, называемую "Эфирным Якорем"</speak>
-            <speak chara="_Otto">С математической точки зрения, "Море Кванта" не принадлежит к известным нам 4-м измерениям, а представляет собой огромную категорию "Складывающихся плоскостей", существующих параллельно нам.</speak>
-            <speak chara="_Otto" remark="next">"Эфирный Якорь" - это топологическое преобразование, существующее между "многообразием пространств", а также предстоит выяснить, естественно его происхождение или же искусственно.</speak>
+            <speak chara="_Otto">Простыми словами, ваша задача состоит в том, чтобы отслеживать состояние измерения, называемого "Морем Кванта".</speak>
+            <speak chara="_Otto">А также исследовать структуру, называемую "Эфирным Якорем"</speak>
+            <speak chara="_Otto">С математической точки зрения "Море Кванта" не принадлежит к известным нам 4 измерениям, а представляет собой огромную категорию "складывающихся плоскостей", существующих параллельно нам.</speak>
+            <speak chara="_Otto">"Эфирный Якорь" - это топологическое преобразование, существующее между "многообразием пространств".</speak>
+            <speak chara="_Otto" remark="next">Также вам предстоит выяснить, естественно его происхождение или же искусственно.</speak>
             <remark post="U2FsdGVkX18NMIcI27DMkplacYO6">
                 <p class="article-text-h">Примечание：</p>
                 <p class="article-text">Многообразие (Manifold) — пространство, локально сходное с евклидовым. Евклидово пространство является самым простым примером многообразия. Многообразие может быть сформировано путем "склеивания" и "сгибания".</p>
@@ -500,18 +502,20 @@
             </remark>
             <speak chara="_Otto">В отличие от классического времени и пространства, в котором мы живем, "Море Кванта" можно описать как масштабное фрагментирование——</speak>
             <speak chara="_Otto">Основные законы физики будут продолжать меняться по мере смены координат, в результате чего миры будут нестабильны, как пузыри——</speak>
-            <speak chara="_Otto">——Но даже при таком фрагментировании, существуют некие "островки стабильности", которые "закреплены" Эфирными Якорями.</speak>
-            <speak chara="_Otto">Тамошние миры, также как и наш, имеют свой набор базовых законов физики.</speak>
+            <speak chara="_Otto">——Но даже при таком фрагментировании существуют некие "островки стабильности", которые "закреплены" Эфирными Якорями.</speak>
+            <speak chara="_Otto">Те миры, также как и наш, имеют свой набор базовых законов физики.</speak>
             <speak chara="_Otto">Давайте я просто скажу вам свой вывод:</speak>
             <speak chara="_Otto">"Проекция" Солнечной системы на Море Кванта чрезвычайно близка к координатам Эфирного Якоря</speak>
             <speak chara="_Otto">Это значит, что если мы проследим за генерацией "Проекции", то сможем переместиться в Море Кванта</speak>
             <speak chara="_Otto">...Возможно, мы могли бы увидеть "Клонированную Землю", во многом похожую на нашу.</speak>
             <speak chara="_Otto">——Для нас это будут невероятно ценные данные.</speak>
-            <speak chara="_Otto">К счастью для нас, используя материалы прошлой циливизации, мы смогли создать экспериментальные устройства, позволяющие перемещаться в Море Кванта и из него——</speak>
+            <speak chara="_Otto">К счастью, используя материалы прошлой циливизации, мы смогли создать экспериментальные устройства, позволяющие перемещаться в Море Кванта и из него——</speak>
             <speak chara="_Otto">——Это устройство называется "Гений".</speak>
             <speak chara="_Otto">Теоретически, с помощью "Гения", человек может в любое время переместиться из Проекции——</speak>
-            <speak chara="_Otto">Но если вы захотите перейти в Проекцию со стороны реальности, то из-за технических ограничений, это можно сделать лишь при появлении "пространственно-временного окна".</speak>
-            <speak chara="_Otto">В следующий раз "окно" появится 29 февраля между 11:15 и 12:15, недалеко от фьорда 1054 в национальном парке Северо-Восточной Гренландии. Он будет оставаться открытым примерно 100 секунд.</speak>
+            <speak chara="_Otto">Но если вы захотите перейти в Проекцию со стороны реальности——</speak>
+            <speak chara="_Otto">То из-за технических ограничений это можно сделать лишь при появлении "пространственно-временного окна".</speak>
+            <speak chara="_Otto">В следующий раз "окно" появится 29 февраля между 11:15 и 12:15, недалеко от фьорда 1054 в национальном парке Северо-Восточной Гренландии.</speak>
+            <speak chara="_Otto">Он будет оставаться открытым примерно 100 секунд.</speak>
             <speak chara="_Otto">Это событие более редкое, чем прохождение Венеры—— могут пройти столетия, прежде чем появится следующее "окно".</speak>
             <speak chara="_Otto">——Что думаешь об этом? Не возбуждает?</speak>
             <goto goto="140" clockwise="1"/>
