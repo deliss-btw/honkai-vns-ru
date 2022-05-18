@@ -1,8 +1,23 @@
 # Honkai VNs
-Structured translations of HI3 VNs so that they can be loaded in to VN via userscripts, extensions, standalone versions, etc.
+Структурированные переводы визуальных новелл HI3, чтобы их можно было загружать в новелыл через скрипты, расширения, автономные версии и т.д.
 
-* Anti-Entropy: https://zklm.github.io/honkai-vn-antientropy/ (Standalone)
-* Durandal: https://zklm.github.io/honkai-vn-durandal/ (Standalone)
+Ссылки на новеллы:
+* Anti-Entropy: https://zklm.github.io/honkai-vn-antientropy/
+* Durandal: https://zklm.github.io/honkai-vn-durandal/
+
+Ссылки на перевод для вставки в настройки:
+* Anti-Entropy: `raw.githubusercontent.com/deliss-btw/honkai-vns-ru/master/antientropy/en/xml`
+* Durandal: `raw.githubusercontent.com/deliss-btw/honkai-vns-ru/master/durandal/en/xml`
+
+Для исправлений и прочего не стесняйтесь писать мне в личные сообщения в дискорде "болгарка いさん#7299", вк vk.com/deliss_btw, или же телеге @deliss_btw
+
+## Как работает перевод?
+Возьмем в пример новеллу Дюрандаль:
+1. Переходим по уже известной нам ссылке(zklm.github.io/honkai-vn-durandal)
+2. Открываем настройки в правом верхнем углу
+3. В поле `Custom EN XML Source` вставляем ссылку `raw.githubusercontent.com/deliss-btw/honkai-vns-ru/master/durandal/en/xml`
+*Важное примечание: Для каждой новеллы ссылки разные*
+
 
 ## Translators
 The goal is to give contributor permissions of this repo to any active competent translator. Userscripts and so on would all then query from here to load translations. Full credit given of course. If anyone's keen, I guess just submit an issue, lemme know if you wanna discuss through email/whatever.
@@ -11,17 +26,12 @@ Translating is fairly straightforward, in each VN directory there's a CN xml and
 
 For corrections and minor translations, feel free to submit an issue or PR.
 
-## Consistency
-Translations acquired from other sources are only modified to fix typos and to use official EN names over literal translations. 
+## Последовательность
+Переводы, полученные из других источников, модифицируются только для исправления опечаток и использования официальных названий вместо буквальных переводов.
 
-Examples of official EN name changes:
-* Destiny/Fate -> Schicksal
-* Jormungand -> World Serpent
-* Atagina -> Ataegina
+Примеры официально измененных имен и названий:
+* Destiny/Fate -> Schicksal -> Шиксал
+* Jormungand -> World Serpent -> Мировой Змей
+* Atagina -> Ataegina -> Атаегина
 
 For transparency, modified translations will have a comment alongside them containing the original line.
-
-## Current Progress
-* Anti-Entropy: CH1-12 untranslated, CH13-26 mostly done (Aiatar)
-* Durandal: CH1-20 done (Aiatar), C21-31 untranslated
-* Seven Swords: 0
