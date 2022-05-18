@@ -6,8 +6,8 @@
 * Durandal: https://zklm.github.io/honkai-vn-durandal/
 
 Ссылки на перевод для вставки в настройки:
-* Anti-Entropy: `raw.githubusercontent.com/deliss-btw/honkai-vns-ru/master/antientropy/en/xml`
-* Durandal: `raw.githubusercontent.com/deliss-btw/honkai-vns-ru/master/durandal/en/xml`
+* Anti-Entropy: `https://raw.githubusercontent.com/deliss-btw/honkai-vns-ru/master/antientropy/en/xml/`
+* Durandal: `https://raw.githubusercontent.com/deliss-btw/honkai-vns-ru/master/durandal/en/xml/`
 
 Для исправлений и прочего не стесняйтесь писать мне в личные сообщения в дискорде "болгарка いさん#7299", вк vk.com/deliss_btw, или же телеге @deliss_btw
 
@@ -15,7 +15,7 @@
 Возьмем в пример новеллу Дюрандаль:
 1. Переходим по уже известной нам ссылке(zklm.github.io/honkai-vn-durandal)
 2. Открываем настройки в правом верхнем углу
-3. В поле `Custom EN XML Source` вставляем ссылку `raw.githubusercontent.com/deliss-btw/honkai-vns-ru/master/durandal/en/xml`
+3. В поле `Custom EN XML Source` вставляем ссылку `https://raw.githubusercontent.com/deliss-btw/honkai-vns-ru/master/durandal/en/xml/`
 *Важное примечание: Для каждой новеллы ссылки разные*
 
 
