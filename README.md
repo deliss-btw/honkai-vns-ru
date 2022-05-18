@@ -34,4 +34,3 @@ For corrections and minor translations, feel free to submit an issue or PR.
 * Jormungand -> World Serpent -> Мировой Змей
 * Atagina -> Ataegina -> Атаегина
 
-For transparency, modified translations will have a comment alongside them containing the original line.
