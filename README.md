@@ -16,7 +16,7 @@
 1. Переходим по уже известной нам ссылке(https://zklm.github.io/honkai-vn-durandal)
 2. Открываем настройки в правом верхнем углу
 3. В поле `Custom EN XML Source` вставляем ссылку `https://raw.githubusercontent.com/deliss-btw/honkai-vns-ru/master/durandal/en/xml/`
-*Важное примечание: Для каждой новеллы ссылки разные*
+*Важное примечание: Для каждой новеллы ссылки разные, см. первый раздел*
 
 
 ## Translators
