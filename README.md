@@ -9,7 +9,7 @@
 * Anti-Entropy: `https://raw.githubusercontent.com/deliss-btw/honkai-vns-ru/master/antientropy/en/xml/`
 * Durandal: `https://raw.githubusercontent.com/deliss-btw/honkai-vns-ru/master/durandal/en/xml/`
 
-Для исправлений и прочего не стесняйтесь писать мне в личные сообщения в дискорде `болгарка いさん#7299`, вк https://vk.com/deliss_btw, или же телеге @deliss_btw
+Для исправлений и прочего не стесняйтесь писать мне в личные сообщения в дискорде `болгарка いさん#7299`, вк https://vk.com/deliss_btw, или же телеге https://t.me/deliss_btw
 
 ## Как работает перевод?
 Возьмем в пример новеллу Дюрандаль:
