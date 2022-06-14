@@ -26,7 +26,7 @@ Translating is fairly straightforward, in each VN directory there's a CN xml and
 
 For corrections and minor translations, feel free to submit an issue or PR.
 
-## Последовательность
+## Пометка
 Переводы, полученные из других источников, модифицируются только для исправления опечаток и использования официальных названий вместо буквальных переводов.
 
 Примеры официально измененных имен и названий:
