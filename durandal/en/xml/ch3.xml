@@ -8,26 +8,26 @@
         </scene>
         <scene id="10" background="deepWater.jpg">
             <bgm src="seaAndSky.mp3" status="start"></bgm>
-            <text>The 「Quantum Sea」 is not a real ocean.</text>
-            <text>It doesn't belong to any particular planet, nor it's composed of liquid such as water.</text>
-            <text>It's not the 「cornerstone」 of a 「single universe」 either, but the 「medium」 where many worlds of countless possibilities exist.</text>
-            <text>Its structure can't be completely described using a third or four dimensional mathematical concept——</text>
-            <text>Let's imagine for a moment many worlds, each one with their own set of dimensions and laws, being their own separated 「bubble world」——</text>
-            <text>——Following that metaphor, the 「Quantum Sea」 is an 「ocean」 that houses countless 「bubble worlds」.</text>
-            <text>...Of course, it doesn't matter if you think of it as a bathtub instead of an ocean.</text>
-            <text>「Membranes」 are formed in the 「fluctuations」 of the 「Ether」 the 「Quantum Sea」 is composed of, and said 「membranes」 may evolve into a 「bubble world」.</text>
-            <text>As we all know, a three dimensional bubble has a spherical surface that is close to being two dimensional.</text>
-            <text>When these 「bubble worlds」 are in the 「Ether Bathhub」, a choice of which of the eleven dimensions are inherited must be made.</text>
-            <text>For instance, in the 「universe」 we are familiar with humans can recognize four dimension and seven extra dimensions, each one being a constant 「membrane」.</text>
-            <!-- RENAME: What Bishop Otto referred to as 「Ether Anchor Point」 is the special structure or method that allows those 「membranes」 to turn into 「bubble worlds」. -->
-            <text>What Overseer Otto referred to as 「Ether Anchor Point」 is the special structure or method that allows those 「membranes」 to turn into 「bubble worlds」.</text>
-            <text>When the 「analogous distance」 between two 「membranes」 is small enough, they begin to influence each other—— For example, by exchanging matter.</text>
-            <text>Speaking in general, it's easier for a substance to go from a 「relatively small membrane」 to a 「relatively big membrane」 but doing the oppossite is quite difficult——</text>
-            <text>——As such, the 「relatively small membrane」 is likely to be the one who performs changes to other bigger 「membranes」.</text>
-            <text>And finally, the special 「membrane」 called 「projection」 is born.</text>
-            <text>In this 「projection」, only analogous areas of the 「membranes」 continue to exist—— while everything else disappears completely.</text>
-            <text>For example, the 「world」 where the 「Caledonia」 exists right now is a 「projection」 made out of 「membranes」 which had analogous properties between them.</text>
-            <text>This is how Bianka and Rita were able to meet 「Captain Shakespeare」 who came from another world.</text>
+            <text>“Море Кванта” - это не водные просторы.</text>
+            <text>Оно не принадлежит ни к какой конкретной планете и не состоит из жидкости, подобной воде.</text>
+            <text>На самом деле, к нему стоит относиться как к некоему "фундаменту", не принадлежащему ни к какой вселенной, как к среде.</text>
+            <text>Его структура не может быть полностью описана в трехмерной или четырехмерной математической системе——</text>
+            <text>Мы можем представить множество миров, каждый со своим собственным набором измерений и законов,</text>
+            <text>это все - их собственный отдельный "пузырьковый мир"——</text>>
+            <text>——Следуя этой метафоре, “Море Кванта” - это “океан”, в котором находится бесчисленное кол-во “пузырьковых миров”</text>
+            <text>...Конечно, если вам так больше нравится, можете представлять его как ванну.</text>
+            <text>«Мембраны» образуются в колебаниях Эфира, из которого состоит Море Кванта. Упомянутые «мембраны» могут эволюционировать в пузырьковый мир.</text>
+            <text>Мы знаем, что трехмерный пузырь имеет сферическую поверхность, близкую к двумерной.</text>
+            <text>У этих пузырьковых миров есть выбор для наследования, выбор состит из 11 измерений, принадлежащих «Эфирной Ванне»</text>
+            <text>К примеру, известная нам вселенная представляет собой «мембрану», простирающуюся в 4 измерениях и сворачивующуюся в 7 остальных.</text>
+            <text>То, что Епископ Отто назвал Эфирным Якорем, относится к специальным структурам, которые могут стабилизировать мембрану в пузырьковый мир.</text>
+            <text>Когда "расстояние подобия" между двумя стабильными мембранами достаточно мало, они будут влиять друг на друга, например, обмениваясь материей.</text>
+            <text>Вообще, материи легко перейти от меньшей мембраны к большей, но в обратную сторону сделать это гораздо сложнее——</text>
+            <text>——Так что меньшая мембрана легко разрушается по структуре и приводит к влиянию на нее большего количества других мембран.</text>
+            <text>Конечным результатом является формирование особого вида мембраны, называемой “проекцией”：</text>
+            <text>На “проекции” остаются лишь те участки, на которые устойчиво воздействуют другие мембраны —— остальное пространство исчезает в небытие.</text>
+            <text>Например, мир, в котором в настоящее время находится Каледония, представляет собой «проекцию» из нескольких мембран со схожими свойствами.</text>
+            <text>Именно поэтому вы, из одного мира, являетесь гостями капитана Шекспира из другого мира.</text>
             <goto goto="20" change="#000000"/>
         </scene>
         <scene id="20" background="CG3-1.jpg">
@@ -41,73 +41,73 @@
             <bgm src="11_29_lab.mp3" status="start"></bgm>
             <show chara="biankaBiteClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">Agh! I can't wrap my head around this situation! </speak>
+            <speak chara="_Bianka">Аргх! Ни черта не понимаю!</speak>
             <show chara="biankaSeriousClose" position="right"/>
             <show chara="rita17SquintClose" position="left" opacity="0.8"/>
-            <speak chara="_Bianka">Oh...</speak>
+            <speak chara="_Bianka">Ой...</speak>
             <show chara="biankaConfidentClose" position="right"/>
-            <speak chara="_Bianka">Y-You were there, Rita.</speak>
+            <speak chara="_Bianka">Т-ты была там, Рита.</speak>
             <show chara="biankaConfidentClose" position="right" opacity="0.8"/>
             <show chara="rita17SmileClose" position="left"/>
-            <speak chara="_Rita">The island refugees seem to have calmed down.</speak>
+            <speak chara="_Rita">Беженцы с острова, похоже, уже обустроились.</speak>
             <show chara="rita17SquintClose" position="left"/>
-            <speak chara="_Rita">There were a few complains by the pirates, but they still made room for everyone to rest.</speak>
+            <speak chara="_Rita">Хоть пираты и жаловались, но они все равно освободили места всем для отдыха.</speak>
             <show chara="rita17HesitateClose" position="left"/>
-            <speak chara="_Rita">...But I doubt they'll be able to lie down in bed and relax for a while.</speak>
+            <speak chara="_Rita">...Но при этом, большинство людей вряд-ли смогут спокойно поспать у себя в постели.</speak>
             <show chara="rita17HesitateClose" position="left" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="right"/>
-            <speak chara="_Bianka">That's fine, no one is in a position to complain.</speak>
+            <speak chara="_Bianka">В любом случае, будь то спасатели, или же транспортировщики, обеим сторонам не на что жаловаться.</speak>
             <show chara="biankaProudClose" position="right"/>
-            <speak chara="_Bianka">And that old man Miguel is here too, I don't think the air will be too tense with him around.</speak>
+            <speak chara="_Bianka">Кроме того, когда рядом наш старик Мигель, атмосфера не может быть плохой, верно?</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
             <show chara="rita17SmileClose" position="left"/>
-            <speak chara="_Rita">Yes, I agree.</speak>
+            <speak chara="_Rita">И правда..</speak>
             <show chara="rita17NormalClose" position="left"/>
             <speak chara="_Rita">.....</speak>
-            <speak chara="_Rita">Actually, I can't help but feel impressed by that side of you.</speak>
+            <speak chara="_Rita">Если честно, то я восхищаюсь этим в Бьянке-сама.</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
-            <speak chara="_Bianka">Eh? My what?</speak>
+            <speak chara="_Bianka">А? Чем именно?</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
             <show chara="rita17SmileClose" position="left"/>
-            <speak chara="_Rita">The side of you that swiftly makes decisions and takes action.</speak>
+            <speak chara="_Rita">Тем, как быстро вы принимаете решения и исполняете их.</speak>
             <show chara="rita17SmileClose" position="left" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">Ahaha...</speak>
+            <speak chara="_Bianka">Э...</speak>
             <show chara="biankaAngryClose" position="right"/>
-            <speak chara="_Bianka">About that, once in the orphanage a counselor told me——</speak>
+            <speak chara="_Bianka">Знаешь ли ты, как в приюте вожатая меня критиковала?——</speak>
             <show chara="biankaShoutClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">「By the love of God! You idiot! Would it kill you to use your head for a little bit!?」</speak>
+            <speak chara="_Bianka">“Боже мой！ Идиотка! У тебя совсем мозгов нет?!”</speak>
             <show chara="biankaAngryClose" position="right"/>
-            <speak chara="_Bianka">And——</speak>
+            <speak chara="_Bianka">Или же——</speak>
             <show chara="biankaShoutClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">「Don't trust so quickly！Think things twice!」</speak>
+            <speak chara="_Bianka">“Не так быстро! Разве не лучше подумать дважды перед действиями?!”</speak>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">——For most that would be a disadvantage, but in the right hands it can turn into an important advantage.</speak>
+            <speak chara="_Bianka">——Как ни смотри, это недостаток, разве можно его превратить в преимущество?</speak>
             <show chara="biankaHesitateClose" position="right" opacity="0.8"/>
             <show chara="rita17SmileClose" position="left"/>
-            <speak chara="_Rita">Hehe. I wouldn't say it has turned into an advantage.</speak>
+            <speak chara="_Rita">Хе-хе. Не сказала бы что это полностью можно превратить в приемущество.</speak>
             <show chara="rita17NormalClose" position="left"/>
-            <speak chara="_Rita">——I think someone who is moderately reckless is better than someone who doesn't hesitate at all, is too indecisive, or doesn't do anything at all to escape responsibility.</speak>
+            <speak chara="_Rita">——Честно говоря, я считаю что лучше быть в меру безрассудным, чем нерешительным или даже бездействующим ради избежания ответственности.</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">...About that last one—— I don't think there is a Valkyrie like that anywhere. Of course, I'm aware it also doesn't apply to you.</speak>
+            <speak chara="_Bianka">...Насчёт последнего — разве может быть настолько плохая валькирия? Я уверена что ты не такая, так ведь?</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="rita17SquintClose" position="left"/>
-            <speak chara="_Rita">Hehe. I just wanted to compliment you earnestly.</speak>
+            <speak chara="_Rita">Пфф, я просто пытаюсь тебя искренне похвалить.</speak>
             <show chara="rita17SquintClose" position="left" opacity="0.8"/>
             <show chara="biancaShyClose" position="right"/>
-            <speak chara="_Bianka">C-Compliment me...</speak>
+            <speak chara="_Bianka">П-похвалить... меня...</speak>
             <show chara="biankaHesitateClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">...I guess you took the lead on that.</speak>
+            <speak chara="_Bianka">...Так ты меня опередила!</speak>
             <show chara="biankaShoutClose" position="right"/>
-            <speak chara="_Bianka">Our roles are backwards now!</speak>
+            <speak chara="_Bianka">Наоборот, наоборот, всё должно быть наоборот!</speak>
             <show chara="biankaShoutClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
-            <speak chara="_Rita">Backwards, you say?</speak>
+            <speak chara="_Rita">....Наоборот?</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="biancaShyClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
@@ -115,19 +115,19 @@
         </scene>
         <scene id="40" background="CG3-2.jpg">
             <bgm src="11_29_themeTesla.mp3" status="start"></bgm>
-            <speak chara="_Bianka">Here, take this... It's a gift.</speak>
-            <speak chara="_Bianka">Ummm...</speak>
-            <speak chara="_Bianka">Happy 17th birthday, adjutant-san.</speak>
-            <speak chara="_Rita">...T-Thank you very much.</speak>
-            <speak chara="_Bianka">I-I made it using a fang from the 「Leviathan」.</speak>
-            <speak chara="_Bianka">...If it is too weird, feel free to throw it away. It's not worth anything.</speak>
-            <speak chara="_Bianka">I-I planned to give it to you at night, right before going to sleep... but let me give it to you now, to serve as well as a thanks for fighting on my behalf today...</speak>
-            <speak chara="_Bianka">...T-There is no problem if I give it to you a few hours earlier, right? Right?</speak>
+            <speak chara="_Bianka">Вот, это... для тебя.</speak>
+            <speak chara="_Bianka">С...</speak>
+            <speak chara="_Bianka">С 17-ти летием тебя, адъютант.</speak>
+            <speak chara="_Rita">А... С-спасибо большое.</speak>
+            <speak chara="_Bianka">Это б-безделушка, вырезанная из зуба Левиафана.</speak>
+            <speak chara="_Bianka">...Если тебе не нравится, можешь выкинуть, все равно он ничего не стоит.</speak>
+            <speak chara="_Bianka">Я планировала отдать её когда у меня был выходной... как подарок тебе за то, что ты решила сражаться за меня...</speak>
+            <speak chara="_Bianka">...Н-ничего страшного, если я отдам его тебе на несколько часов раньше, да? Так ведь??</speak>
             <show chara="black" position="back" opacity="0.6"/>
             <show chara="ritaSpecialRightSquint" position="center"/>
             <speak chara="_Rita">.....</speak>
             <show chara="ritaSpecialRightSmile" position="center"/>
-            <speak chara="_Rita">But of course. I will cherish any present from Bianka-sama.</speak>
+            <speak chara="_Rita">Конечно. Я буду дорожить подарком Бьянки-сама.</speak>
             <hide position="back"></hide>
             <hide position="center"></hide>
             <goto goto="60" change="0"/>
@@ -137,27 +137,26 @@
             <show chara="biankaBiteClose" position="right"/>
             <show chara="rita17SquintClose" position="left" opacity="0.8"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">Y-You don't have to cherish it!</speak>
+            <speak chara="_Bianka">Т-тебе не нужно так оберегать его!</speak>
             <show chara="biankaBiteClose" position="right" opacity="0.8"/>
             <show chara="rita17NaughtyClose" position="left"/>
-            <speak chara="_Rita">Hehehe... no need to be shy, Bianka-sama.</speak>
+            <speak chara="_Rita">Эхехе... Не стесняйтесь, Бьянка-сама.</speak>
             <show chara="rita17NaughtyClose" position="left" opacity="0.8"/>
             <show chara="biankaShoutClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">I-I'm not shy!</speak>
+            <speak chara="_Bianka">Э.. Это кто ещё стесняется!</speak>
             <show chara="biancaShyClose" position="right"/>
-            <speak chara="_Bianka">Ah... I'm sorry. I-I didn't mean to raise my voice...</speak>
+            <speak chara="_Bianka">Ой... Извини, я... я не хотела на тебя кричать...</speak>
             <show chara="biancaShyClose" position="right" opacity="0.8"/>
             <show chara="rita17SquintClose" position="left"/>
-            <speak chara="_Rita">Hehe. I'm aware, Bianka-sama.</speak>
+            <speak chara="_Rita">Хехе. Я знаю, Бьянка-сама</speak>
             <show chara="rita17NormalClose" position="left"/>
-            <speak chara="_Rita">If I may ask...</speak>
-            <speak chara="_Rita">How did you know my birthday was tomorrow... on March 1st?</speak>
-            <speak chara="_Rita">...I don't... recall telling anyone.</speak>
+            <speak chara="_Rita">Однако, хочу спросить...</speak>
+            <speak chara="_Rita">...Откуда вы знаете что мой день рождения завтра, 1 марта? </speak>
+            <speak chara="_Rita">...Я не... рассказывала о нем кому-либо.</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="biankaProudClose" position="right"/>
-            <!-- RENAME: ...Ahahaha, I know because the Bishop 「sold you out」. -->
-            <speak chara="_Bianka">...Ahahaha, I know because the Overseer 「sold you out」.</speak>
+            <speak chara="_Bianka">...Ахахаха, это всё Епископ, он "предал" тебя.</speak>
             <show chara="biankaConfidentClose" position="right"/>
             <speak chara="_Bianka">Rita Rossweisse, born on March 1st 1995——</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
@@ -294,7 +293,7 @@
             <show chara="lallaSeriousClose" position="left"/>
             <speak chara="_Lalla">I wonder how long will Tanger, Ceuta and Tetouan remain on the other side.</speak>
             <show chara="shakesPityClose" position="left"/>
-            <speak chara="_Shakespeare">Tetouan is Lalla-san's hometown.</speak>
+            <speak chara="_Shakespeare">Tetouan is Lalla's hometown.</speak>
             <show chara="shakesPityClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
@@ -322,7 +321,7 @@
             <speak chara="_Shakespeare">Honkai beast? What's that?</speak>
             <show chara="shakesQuestionClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">The 「monsters」 Iron Mask-san mentioned earlier.</speak>
+            <speak chara="_Bianka">The 「monsters」 Iron Mask mentioned earlier.</speak>
             <show chara="biankaHesitateClose" position="right"/>
             <speak chara="_Bianka">Do they not appear near the 「wall」?</speak>
             <show chara="biankaHesitateClose" position="right" opacity="0.8"/>
@@ -358,7 +357,7 @@
             <speak chara="_Shakespeare">「We in the field have won so many fights, combating through so many regions wide」</speak>
             <speak chara="_Shakespeare">「Beneath the sun reflecting back his rays!」</speak>
             <speak chara="_Shakespeare">「Relics lay in your seven-colored pattern!」</speak>
-            <speak chara="_Shakespeare">「Red Courage, Orange Confidence, Gold Benevolence, Green Virtue, Cyan Vigor, Blue Reason, Purple Noble」</speak>
+            <speak chara="_Shakespeare">「Red Courage, Orange Intuition, Gold Freedom, Green Ethics, Cyan Prosperity, Blue Reason, Purple Dominance」</speak>
             <speak chara="_Shakespeare">「You shall become the sharpest blade in the world, wielded by a brave hero worthy of you!」</speak>
             <speak chara="_Shakespeare">「Just like your name —— Durindana, you shall be unbreakable and unrivaled.」</speak>
             <goto goto="100" change="0"/>
@@ -398,7 +397,7 @@
             <show chara="shakesSweatyClose" position="left"/>
             <speak chara="_Shakespeare">The moment when 「Durindana」 unleashes its true power, it does a check to determine the true nature of its 「Owner」.</speak>
             <show chara="shakesColdClose" position="left"/>
-            <speak chara="_Shakespeare">Courageous, confident, caring, virtuous, vigorous, rational and noble.</speak>
+            <speak chara="_Shakespeare">Courageous, intuitive, free, virtuous, vigorous, rational and noble.</speak>
             <show chara="shakesSweatyClose" position="left"/>
             <speak chara="_Shakespeare">If the seven characteristics aren't met, the power of the sword will be scattered across the world in the form of gems.</speak>
             <show chara="shakesSweatyClose" position="left" opacity="0.8"/>
@@ -489,9 +488,9 @@
             <show chara="shakesQuestionClose" position="left"/>
             <speak chara="_Shakespeare">Yes, it matches the tale of a certain historical figure.</speak>
             <show chara="shakesColdClose" position="left"/>
-            <speak chara="_Shakespeare">The legendary knight who served under Charles the Great—— Roland.</speak>
+            <speak chara="_Shakespeare">The legendary knight who served under Charles the Great—— Rowland.</speak>
             <show chara="shakesSweatyClose" position="left"/>
-            <speak chara="_Shakespeare">The only inconsistency is... the Roland from the history I know was definitely a man. A brave, burly man full of muscles.</speak>
+            <speak chara="_Shakespeare">The only inconsistency is... the Rowland from the history I know was definitely a man. A brave, burly man full of muscles.</speak>
             <show chara="shakesSweatyClose" position="left" opacity="0.8"/>
             <show chara="biankaShoutClose" position="right"/>
             <speak chara="_Bianka">...A man!?</speak>
@@ -499,7 +498,7 @@
             <show chara="shakesDisgustedClose" position="left"/>
             <speak chara="_Shakespeare">Yes, nothing to be surprised about——</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Ah, I see. In your history Roland was a woman, wasn't he?</speak>
+            <speak chara="_Shakespeare">Ah, I see. In your history Rowland was a woman, wasn't he?</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
@@ -507,7 +506,7 @@
             <!-- RENAME: Yes, she's quite famous as a hero who fought the Houkai—— And although she wasn't a Valkyrie herself, there is no Valkyrie who hasn't heard of her. -->
             <speak chara="_Bianka">Yes, she's quite famous as a hero who fought the Honkai—— And although she wasn't a Valkyrie herself, there is no Valkyrie who hasn't heard of her.</speak>
             <show chara="biankaBiteClose" position="right"/>
-            <speak chara="_Bianka">But what's the relationship between 「Durindana」 and Roland? Her sword was named 「Durandal」——</speak>
+            <speak chara="_Bianka">But what's the relationship between 「Durindana」 and Rowland? Her sword was named 「Durandal」——</speak>
             <show chara="biankaSurpriseClose" position="right"/>
             <speak chara="_Bianka">Ah——!</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
@@ -516,7 +515,7 @@
             <show chara="shakesSmileClose" position="left"/>
             <speak chara="_Shakespeare">Let me ask you this, just in case——</speak>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">Did your Roland's sword, 「Durandal」, go missing at the end of her legend?</speak>
+            <speak chara="_Shakespeare">Did your Rowland's sword, 「Durandal」, go missing at the end of her legend?</speak>
             <show chara="shakesConfidentClose" position="left" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="right"/>
             <speak chara="_Bianka">...Yes.</speak>
